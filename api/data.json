@@ -57,7 +57,7 @@
   {
     "id": 6,
     "date": "11/03/2020",
-    "city": "Itagüí",
+    "city": "Itagüi",
     "region": "Antioquia",
     "status": "Casa",
     "age": 27,
@@ -1465,7 +1465,7 @@
   {
     "id": 134,
     "date": "20/03/2020",
-    "city": "Medellín",
+    "city": "La Estrella",
     "region": "Antioquia",
     "status": "Casa",
     "age": 28,
@@ -1498,7 +1498,7 @@
   {
     "id": 137,
     "date": "20/03/2020",
-    "city": "Medellín",
+    "city": "Envigado",
     "region": "Antioquia",
     "status": "Casa",
     "age": 54,
@@ -1665,7 +1665,7 @@
     "date": "20/03/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Hospital UCI",
+    "status": "Fallecido",
     "age": 65,
     "gender": "M",
     "type": "Importado",
@@ -2015,9 +2015,9 @@
   {
     "id": 184,
     "date": "21/03/2020",
-    "city": "Pereira",
-    "region": "Risaralda",
-    "status": "Hospital UCI",
+    "city": "Cartago",
+    "region": "Valle del Cauca",
+    "status": "Casa",
     "age": 41,
     "gender": "F",
     "type": "Importado",
@@ -2620,7 +2620,7 @@
   {
     "id": 239,
     "date": "22/03/2020",
-    "city": "Bello",
+    "city": "Rionegro",
     "region": "Antioquia",
     "status": "Casa",
     "age": 41,
@@ -2631,7 +2631,7 @@
   {
     "id": 240,
     "date": "22/03/2020",
-    "city": "Medellín",
+    "city": "Bello",
     "region": "Antioquia",
     "status": "Hospital UCI",
     "age": 41,
@@ -2864,7 +2864,7 @@
     "date": "23/03/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Hospital UCI",
+    "status": "Fallecido",
     "age": 61,
     "gender": "M",
     "type": "Relacionado",
@@ -3016,7 +3016,7 @@
   {
     "id": 275,
     "date": "23/03/2020",
-    "city": "Barbosa",
+    "city": "Medellín",
     "region": "Antioquia",
     "status": "Casa",
     "age": 21,
@@ -3252,8 +3252,8 @@
     "status": "Casa",
     "age": 25,
     "gender": "F",
-    "type": "Importado",
-    "country_from": "Estados Unidos"
+    "type": "Relacionado",
+    "country_from": "Colombia"
   },
   {
     "id": 297,
@@ -3291,7 +3291,7 @@
   {
     "id": 300,
     "date": "23/03/2020",
-    "city": "Medellín",
+    "city": "Sabaneta",
     "region": "Antioquia",
     "status": "Casa",
     "age": 29,
@@ -3324,7 +3324,7 @@
   {
     "id": 303,
     "date": "23/03/2020",
-    "city": "Itagüí",
+    "city": "Itagüi",
     "region": "Antioquia",
     "status": "Hospital UCI",
     "age": 74,
@@ -3392,7 +3392,7 @@
     "date": "24/03/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Hospital",
+    "status": "Casa",
     "age": 59,
     "gender": "M",
     "type": "Importado",
@@ -4616,7 +4616,7 @@
     "status": "Casa",
     "age": 58,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -5056,7 +5056,7 @@
     "status": "Casa",
     "age": 72,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -5812,7 +5812,7 @@
     "date": "27/3/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Hospital",
+    "status": "Casa",
     "age": 51,
     "gender": "M",
     "type": "Relacionado",
@@ -5914,7 +5914,7 @@
     "status": "Casa",
     "age": 49,
     "gender": "F",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -6065,7 +6065,7 @@
     "date": "28/3/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Hospital",
+    "status": "Casa",
     "age": 40,
     "gender": "M",
     "type": "Relacionado",
@@ -6530,7 +6530,7 @@
     "status": "Hospital",
     "age": 27,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -6558,7 +6558,7 @@
   {
     "id": 597,
     "date": "28/3/2020",
-    "city": "Medellín",
+    "city": "Sabaneta",
     "region": "Antioquia",
     "status": "Casa",
     "age": 21,
@@ -6624,7 +6624,7 @@
   {
     "id": 603,
     "date": "28/3/2020",
-    "city": "Santa Rosa de Osos",
+    "city": "Santa Rosa",
     "region": "Antioquia",
     "status": "Casa",
     "age": 55,
@@ -6750,7 +6750,7 @@
     "status": "Casa",
     "age": 64,
     "gender": "F",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -6794,8 +6794,8 @@
     "status": "Casa",
     "age": 62,
     "gender": "F",
-    "type": "En estudio",
-    "country_from": "Colombia"
+    "type": "Importado",
+    "country_from": "Ecuador"
   },
   {
     "id": 619,
@@ -6805,7 +6805,7 @@
     "status": "Fallecido",
     "age": 36,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -6989,7 +6989,7 @@
     "date": "29/3/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Hospital",
+    "status": "Casa",
     "age": 69,
     "gender": "F",
     "type": "Importado",
@@ -7427,7 +7427,7 @@
   {
     "id": 676,
     "date": "29/3/2020",
-    "city": "Rionegro",
+    "city": "La Ceja",
     "region": "Antioquia",
     "status": "Casa",
     "age": 24,
@@ -7438,7 +7438,7 @@
   {
     "id": 677,
     "date": "29/3/2020",
-    "city": "Rionegro",
+    "city": "San Francisco",
     "region": "Antioquia",
     "status": "Hospital UCI",
     "age": 80,
@@ -7493,7 +7493,7 @@
   {
     "id": 682,
     "date": "29/3/2020",
-    "city": "Medellín",
+    "city": "Envigado",
     "region": "Antioquia",
     "status": "Casa",
     "age": 63,
@@ -7520,8 +7520,8 @@
     "status": "Casa",
     "age": 42,
     "gender": "M",
-    "type": "En estudio",
-    "country_from": "Colombia"
+    "type": "Importado",
+    "country_from": "Estados Unidos"
   },
   {
     "id": 685,
@@ -7564,7 +7564,7 @@
     "status": "Casa",
     "age": 46,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -7806,7 +7806,7 @@
     "status": "Fallecido",
     "age": 64,
     "gender": "F",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -7828,7 +7828,7 @@
     "status": "Casa",
     "age": 45,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -7938,7 +7938,7 @@
     "status": "Fallecido",
     "age": 68,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -7999,7 +7999,7 @@
   {
     "id": 728,
     "date": "30/3/2020",
-    "city": "Itagüí",
+    "city": "La Estrella",
     "region": "Antioquia",
     "status": "Casa",
     "age": 53,
@@ -8010,7 +8010,7 @@
   {
     "id": 729,
     "date": "30/3/2020",
-    "city": "Medellín",
+    "city": "Envigado",
     "region": "Antioquia",
     "status": "Casa",
     "age": 64,
@@ -8397,7 +8397,7 @@
     "date": "30/3/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Casa",
+    "status": "Hospital UCI",
     "age": 61,
     "gender": "F",
     "type": "En estudio",
@@ -8686,7 +8686,7 @@
     "status": "Casa",
     "age": 66,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -8697,7 +8697,7 @@
     "status": "Casa",
     "age": 88,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -8708,7 +8708,7 @@
     "status": "Casa",
     "age": 26,
     "gender": "F",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -8719,7 +8719,7 @@
     "status": "Casa",
     "age": 27,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -8818,7 +8818,7 @@
     "status": "Hospital",
     "age": 54,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -8851,7 +8851,7 @@
     "status": "Casa",
     "age": 26,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -9027,7 +9027,7 @@
     "status": "Casa",
     "age": 70,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -9467,7 +9467,7 @@
     "status": "Hospital",
     "age": 32,
     "gender": "F",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -9739,7 +9739,7 @@
     "date": "31/3/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Casa",
+    "status": "Hospital UCI",
     "age": 65,
     "gender": "F",
     "type": "En estudio",
@@ -9750,7 +9750,7 @@
     "date": "31/3/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Hospital",
+    "status": "Casa",
     "age": 36,
     "gender": "M",
     "type": "Relacionado",
@@ -9990,7 +9990,7 @@
   {
     "id": 909,
     "date": "01/04/2020",
-    "city": "Medellín",
+    "city": "Bello",
     "region": "Antioquia",
     "status": "Casa",
     "age": 51,
@@ -10001,7 +10001,7 @@
   {
     "id": 910,
     "date": "01/04/2020",
-    "city": "Medellín",
+    "city": "Envigado",
     "region": "Antioquia",
     "status": "Casa",
     "age": 21,
@@ -10012,7 +10012,7 @@
   {
     "id": 911,
     "date": "01/04/2020",
-    "city": "Medellín",
+    "city": "Bello",
     "region": "Antioquia",
     "status": "Hospital",
     "age": 29,
@@ -10116,7 +10116,7 @@
     "status": "Casa",
     "age": 41,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -10193,7 +10193,7 @@
     "status": "Casa",
     "age": 15,
     "gender": "M",
-    "type": "Relacionado",
+    "type": "En estudio",
     "country_from": "Colombia"
   },
   {
@@ -10270,7 +10270,7 @@
     "status": "Casa",
     "age": 47,
     "gender": "F",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -10399,10 +10399,10 @@
     "date": "01/04/2020",
     "city": "Neiva",
     "region": "Huila",
-    "status": "Hospital",
+    "status": "Hospital UCI",
     "age": 59,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -10413,7 +10413,7 @@
     "status": "Casa",
     "age": 43,
     "gender": "F",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -10545,7 +10545,7 @@
     "status": "Casa",
     "age": 39,
     "gender": "F",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -10589,7 +10589,7 @@
     "status": "Casa",
     "age": 36,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -10806,7 +10806,7 @@
     "date": "01/04/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Hospital",
+    "status": "Casa",
     "age": 63,
     "gender": "M",
     "type": "En estudio",
@@ -11070,7 +11070,7 @@
     "date": "01/04/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Hospital",
+    "status": "Casa",
     "age": 66,
     "gender": "F",
     "type": "En estudio",
@@ -11202,7 +11202,7 @@
     "date": "01/04/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Hospital",
+    "status": "Casa",
     "age": 58,
     "gender": "F",
     "type": "En estudio",
@@ -11565,7 +11565,7 @@
     "date": "01/04/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Hospital",
+    "status": "Hospital UCI",
     "age": 79,
     "gender": "F",
     "type": "Relacionado",
@@ -11588,10 +11588,10 @@
     "city": "Bogotá",
     "region": "Bogotá D.C.",
     "status": "Casa",
-    "age": 38,
+    "age": 37,
     "gender": "F",
     "type": "Importado",
-    "country_from": "España"
+    "country_from": "Alemania"
   },
   {
     "id": 1055,
@@ -11631,7 +11631,7 @@
     "date": "01/04/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Hospital",
+    "status": "Fallecido",
     "age": 39,
     "gender": "F",
     "type": "Relacionado",
@@ -11675,7 +11675,7 @@
     "date": "01/04/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Hospital",
+    "status": "Hospital UCI",
     "age": 60,
     "gender": "F",
     "type": "En estudio",
@@ -11686,7 +11686,7 @@
     "date": "01/04/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Casa",
+    "status": "Hospital",
     "age": 33,
     "gender": "F",
     "type": "Relacionado",
@@ -11706,7 +11706,7 @@
   {
     "id": 1065,
     "date": "01/04/2020",
-    "city": "Santa Rosa de Osos",
+    "city": "Santa Rosa",
     "region": "Antioquia",
     "status": "Casa",
     "age": 32,
@@ -11783,7 +11783,7 @@
   {
     "id": 1072,
     "date": "02/04/2020",
-    "city": "Medellín",
+    "city": "Rionegro",
     "region": "Antioquia",
     "status": "Casa",
     "age": 51,
@@ -11816,7 +11816,7 @@
   {
     "id": 1075,
     "date": "02/04/2020",
-    "city": "Itagüí",
+    "city": "Itagüi",
     "region": "Antioquia",
     "status": "Casa",
     "age": 68,
@@ -11948,7 +11948,7 @@
   {
     "id": 1087,
     "date": "02/04/2020",
-    "city": "Medellín",
+    "city": "Envigado",
     "region": "Antioquia",
     "status": "Casa",
     "age": 26,
@@ -11959,7 +11959,7 @@
   {
     "id": 1088,
     "date": "02/04/2020",
-    "city": "Medellín",
+    "city": "Bello",
     "region": "Antioquia",
     "status": "Casa",
     "age": 30,
@@ -11981,7 +11981,7 @@
   {
     "id": 1090,
     "date": "02/04/2020",
-    "city": "Medellín",
+    "city": "Caldas",
     "region": "Antioquia",
     "status": "Casa",
     "age": 78,
@@ -12016,7 +12016,7 @@
     "date": "02/04/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Hospital",
+    "status": "Hospital UCI",
     "age": 55,
     "gender": "M",
     "type": "Importado",
@@ -12181,7 +12181,7 @@
     "date": "02/04/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Casa",
+    "status": "Hospital UCI",
     "age": 60,
     "gender": "F",
     "type": "En estudio",
@@ -12346,7 +12346,7 @@
     "date": "02/04/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Casa",
+    "status": "Hospital",
     "age": 84,
     "gender": "F",
     "type": "Relacionado",
@@ -12556,7 +12556,7 @@
     "city": "Bogotá",
     "region": "Bogotá D.C.",
     "status": "Casa",
-    "age": 10,
+    "age": 0,
     "gender": "M",
     "type": "En estudio",
     "country_from": "Colombia"
@@ -12643,7 +12643,7 @@
     "date": "02/04/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Casa",
+    "status": "Hospital UCI",
     "age": 50,
     "gender": "M",
     "type": "En estudio",
@@ -12888,8 +12888,8 @@
     "status": "Hospital",
     "age": 49,
     "gender": "M",
-    "type": "En estudio",
-    "country_from": "Colombia"
+    "type": "Importado",
+    "country_from": 0
   },
   {
     "id": 1173,
@@ -13042,13 +13042,13 @@
     "status": "Casa",
     "age": 37,
     "gender": "F",
-    "type": "Importado",
-    "country_from": "España"
+    "type": "Relacionado",
+    "country_from": "Colombia"
   },
   {
     "id": 1187,
     "date": "03/04/2020",
-    "city": "Envigado",
+    "city": "Medellín",
     "region": "Antioquia",
     "status": "Casa",
     "age": 33,
@@ -13070,7 +13070,7 @@
   {
     "id": 1189,
     "date": "03/04/2020",
-    "city": "Medellín",
+    "city": "Envigado",
     "region": "Antioquia",
     "status": "Casa",
     "age": 29,
@@ -13092,7 +13092,7 @@
   {
     "id": 1191,
     "date": "03/04/2020",
-    "city": "San Antonio de Prado",
+    "city": "Medellín",
     "region": "Antioquia",
     "status": "Casa",
     "age": 23,
@@ -13149,7 +13149,7 @@
     "date": "03/04/2020",
     "city": "Pereira",
     "region": "Risaralda",
-    "status": "Casa",
+    "status": "Hospital",
     "age": 73,
     "gender": "F",
     "type": "Relacionado",
@@ -13163,7 +13163,7 @@
     "status": "Casa",
     "age": 0,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -13193,11 +13193,11 @@
     "date": "03/04/2020",
     "city": "Villavicencio",
     "region": "Meta",
-    "status": "Hospital",
+    "status": "Fallecido",
     "age": 94,
     "gender": "F",
     "type": "Relacionado",
-    "country_from": "Estados Unidos"
+    "country_from": "Colombia"
   },
   {
     "id": 1201,
@@ -13306,7 +13306,7 @@
     "status": "Casa",
     "age": 40,
     "gender": "F",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -13314,7 +13314,7 @@
     "date": "03/04/2020",
     "city": "Cúcuta",
     "region": "Norte de Santander",
-    "status": "Hospital",
+    "status": "Casa",
     "age": 31,
     "gender": "F",
     "type": "En estudio",
@@ -13325,7 +13325,7 @@
     "date": "03/04/2020",
     "city": "Cúcuta",
     "region": "Norte de Santander",
-    "status": "Hospital",
+    "status": "Hospital UCI",
     "age": 54,
     "gender": "M",
     "type": "En estudio",
@@ -13424,7 +13424,7 @@
     "date": "03/04/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Casa",
+    "status": "Hospital",
     "age": 27,
     "gender": "M",
     "type": "Importado",
@@ -13501,7 +13501,7 @@
     "date": "03/04/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Casa",
+    "status": "Fallecido",
     "age": 36,
     "gender": "M",
     "type": "En estudio",
@@ -13611,7 +13611,7 @@
     "date": "03/04/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Hospital",
+    "status": "Fallecido",
     "age": 82,
     "gender": "M",
     "type": "En estudio",
@@ -13856,13 +13856,13 @@
     "status": "Casa",
     "age": 55,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
     "id": 1261,
     "date": "03/04/2020",
-    "city": "Medellín",
+    "city": "Envigado",
     "region": "Antioquia",
     "status": "Casa",
     "age": 39,
@@ -13873,7 +13873,7 @@
   {
     "id": 1262,
     "date": "03/04/2020",
-    "city": "Itagüí",
+    "city": "Itagüi",
     "region": "Antioquia",
     "status": "Casa",
     "age": 78,
@@ -13895,7 +13895,7 @@
   {
     "id": 1264,
     "date": "03/04/2020",
-    "city": "Itagüí",
+    "city": "Itagüi",
     "region": "Antioquia",
     "status": "Casa",
     "age": 59,
@@ -13906,7 +13906,7 @@
   {
     "id": 1265,
     "date": "03/04/2020",
-    "city": "Itagüí",
+    "city": "Itagüi",
     "region": "Antioquia",
     "status": "Casa",
     "age": 9,
@@ -13917,7 +13917,7 @@
   {
     "id": 1266,
     "date": "03/04/2020",
-    "city": "Itagüí",
+    "city": "Itagüi",
     "region": "Antioquia",
     "status": "Casa",
     "age": 54,
@@ -14164,7 +14164,7 @@
     "status": "Casa",
     "age": 41,
     "gender": "F",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -14175,7 +14175,7 @@
     "status": "Casa",
     "age": 53,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -14215,7 +14215,7 @@
     "id": 1293,
     "date": "04/04/2020",
     "city": "Cali",
-    "region": "Valle del cauca",
+    "region": "Valle del Cauca",
     "status": "Casa",
     "age": 28,
     "gender": "F",
@@ -14645,7 +14645,7 @@
     "date": "04/04/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Casa",
+    "status": "Hospital",
     "age": 52,
     "gender": "M",
     "type": "En estudio",
@@ -15085,7 +15085,7 @@
     "date": "04/04/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Hospital UCI",
+    "status": "Fallecido",
     "age": 72,
     "gender": "M",
     "type": "En estudio",
@@ -15272,7 +15272,7 @@
     "date": "04/04/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Hospital",
+    "status": "Fallecido",
     "age": 90,
     "gender": "M",
     "type": "En estudio",
@@ -15473,7 +15473,7 @@
     "status": "Hospital UCI",
     "age": 70,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -15545,7 +15545,7 @@
   {
     "id": 1414,
     "date": "05/04/2020",
-    "city": "Itagüí",
+    "city": "Itagüi",
     "region": "Antioquia",
     "status": "Hospital",
     "age": 43,
@@ -15677,7 +15677,7 @@
   {
     "id": 1426,
     "date": "05/04/2020",
-    "city": "Itagüí",
+    "city": "Itagüi",
     "region": "Antioquia",
     "status": "Casa",
     "age": 53,
@@ -15710,12 +15710,12 @@
   {
     "id": 1429,
     "date": "05/04/2020",
-    "city": "Medellín",
+    "city": "Bello",
     "region": "Antioquia",
-    "status": "casa",
-    "age": 30,
+    "status": "Casa",
+    "age": 32,
     "gender": "F",
-    "type": "Relacionado",
+    "type": "En estudio",
     "country_from": "Colombia"
   },
   {
@@ -15897,7 +15897,7 @@
   {
     "id": 1446,
     "date": "05/04/2020",
-    "city": "Medellín",
+    "city": "Caldas",
     "region": "Antioquia",
     "status": "Casa",
     "age": 27,
@@ -15925,7 +15925,7 @@
     "age": 26,
     "gender": "F",
     "type": "En estudio",
-    "country_from": "Colombiana"
+    "country_from": "Colombia"
   },
   {
     "id": 1449,
@@ -15936,7 +15936,7 @@
     "age": 31,
     "gender": "M",
     "type": "En estudio",
-    "country_from": "Colomabia"
+    "country_from": "Colombia"
   },
   {
     "id": 1450,
@@ -15947,7 +15947,7 @@
     "age": 35,
     "gender": "M",
     "type": "En estudio",
-    "country_from": "Colombiana"
+    "country_from": "Colombia"
   },
   {
     "id": 1451,
@@ -16009,7 +16009,7 @@
     "date": "05/04/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Hospital",
+    "status": "Fallecido",
     "age": 57,
     "gender": "M",
     "type": "En estudio",
@@ -16331,6 +16331,1040 @@
     "status": "Casa",
     "age": 56,
     "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1486,
+    "date": "06/04/2020",
+    "city": "Barrancabermeja",
+    "region": "Santander",
+    "status": "Hospital UCI",
+    "age": 49,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1487,
+    "date": "06/04/2020",
+    "city": "Floridablanca",
+    "region": "Santander",
+    "status": "Hospital UCI",
+    "age": 65,
+    "gender": "M",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1488,
+    "date": "06/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Hospital",
+    "age": 87,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1489,
+    "date": "06/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Casa",
+    "age": 25,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1490,
+    "date": "06/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Casa",
+    "age": 29,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1491,
+    "date": "06/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Hospital",
+    "age": 52,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1492,
+    "date": "06/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Casa",
+    "age": 37,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1493,
+    "date": "06/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Casa",
+    "age": 52,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1494,
+    "date": "06/04/2020",
+    "city": "Bello",
+    "region": "Antioquia",
+    "status": "Casa",
+    "age": 23,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1495,
+    "date": "06/04/2020",
+    "city": "Sabaneta",
+    "region": "Antioquia",
+    "status": "Casa",
+    "age": 32,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1496,
+    "date": "06/04/2020",
+    "city": "Caldas",
+    "region": "Antioquia",
+    "status": "Casa",
+    "age": 33,
+    "gender": "F",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1497,
+    "date": "06/04/2020",
+    "city": "Sabaneta",
+    "region": "Antioquia",
+    "status": "Casa",
+    "age": 63,
+    "gender": "M",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1498,
+    "date": "06/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Hospital",
+    "age": 42,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1499,
+    "date": "06/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Casa",
+    "age": 39,
+    "gender": "M",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1500,
+    "date": "06/04/2020",
+    "city": "El Dovio",
+    "region": "Valle del Cauca",
+    "status": "Casa",
+    "age": 88,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1501,
+    "date": "06/04/2020",
+    "city": "El Dovio",
+    "region": "Valle del Cauca",
+    "status": "Casa",
+    "age": 64,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1502,
+    "date": "06/04/2020",
+    "city": "Yumbo",
+    "region": "Valle del Cauca",
+    "status": "Casa",
+    "age": 22,
+    "gender": "M",
+    "type": "importado",
+    "country_from": "Estados Unidos"
+  },
+  {
+    "id": 1503,
+    "date": "06/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Casa",
+    "age": 48,
+    "gender": "M",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1504,
+    "date": "06/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Casa",
+    "age": 49,
+    "gender": "M",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1505,
+    "date": "06/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Hospital",
+    "age": 59,
+    "gender": "M",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1506,
+    "date": "06/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Hospital UCI",
+    "age": 39,
+    "gender": "M",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1507,
+    "date": "06/04/2020",
+    "city": "Barranquilla",
+    "region": "Barranquilla D.E.",
+    "status": "Casa",
+    "age": 20,
+    "gender": "M",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1508,
+    "date": "06/04/2020",
+    "city": "Rionegro",
+    "region": "Antioquia",
+    "status": "Hospital",
+    "age": 69,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1509,
+    "date": "06/04/2020",
+    "city": "Medellín",
+    "region": "Antioquia",
+    "status": "Casa",
+    "age": 11,
+    "gender": "F",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1510,
+    "date": "06/04/2020",
+    "city": "Sabaneta",
+    "region": "Antioquia",
+    "status": "Casa",
+    "age": 55,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1511,
+    "date": "06/04/2020",
+    "city": "Medellín",
+    "region": "Antioquia",
+    "status": "Casa",
+    "age": 55,
+    "gender": "F",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1512,
+    "date": "06/04/2020",
+    "city": "Medellín",
+    "region": "Antioquia",
+    "status": "Hospital",
+    "age": 59,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1513,
+    "date": "06/04/2020",
+    "city": "Medellín",
+    "region": "Antioquia",
+    "status": "Casa",
+    "age": 52,
+    "gender": "M",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1514,
+    "date": "06/04/2020",
+    "city": "Medellín",
+    "region": "Antioquia",
+    "status": "Fallecido",
+    "age": 91,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1515,
+    "date": "06/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Hospital",
+    "age": 48,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1516,
+    "date": "06/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Hospital",
+    "age": 61,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1517,
+    "date": "06/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Hospital UCI",
+    "age": 57,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": 0
+  },
+  {
+    "id": 1518,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 54,
+    "gender": "F",
+    "type": "Importado",
+    "country_from": "Estados Unidos"
+  },
+  {
+    "id": 1519,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Hospital",
+    "age": 66,
+    "gender": "M",
+    "type": "Importado",
+    "country_from": "Turquia"
+  },
+  {
+    "id": 1520,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 39,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1521,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 70,
+    "gender": "F",
+    "type": "Importado",
+    "country_from": "Egipto"
+  },
+  {
+    "id": 1522,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 55,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1523,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Hospital",
+    "age": 31,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1524,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 27,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1525,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 27,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1526,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 21,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1527,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 35,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1528,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 31,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1529,
+    "date": "06/04/2020",
+    "city": "Chía",
+    "region": "Cundinamarca",
+    "status": "Casa",
+    "age": 46,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1530,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 33,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1531,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 61,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1532,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Hospital UCI",
+    "age": 76,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1533,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 57,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1534,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 87,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1535,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 44,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1536,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 30,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1537,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Hospital",
+    "age": 50,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1538,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Hospital",
+    "age": 15,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1539,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Hospital",
+    "age": 86,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1540,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 30,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1541,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 42,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1542,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 37,
+    "gender": "M",
+    "type": "Importado",
+    "country_from": "Estados Unidos"
+  },
+  {
+    "id": 1543,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 45,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1544,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 34,
+    "gender": "F",
+    "type": "Importado",
+    "country_from": "Perú"
+  },
+  {
+    "id": 1545,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 52,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1546,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 47,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1547,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 59,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1548,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Hospital",
+    "age": 50,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1549,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Hospital",
+    "age": 63,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1550,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Hospital UCI",
+    "age": 74,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1551,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 8,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1552,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Hospital",
+    "age": 66,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1553,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 85,
+    "gender": "F",
+    "type": "Importado",
+    "country_from": "España"
+  },
+  {
+    "id": 1554,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 55,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1555,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 26,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1556,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 29,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1557,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 31,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1558,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 23,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1559,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 35,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1560,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 15,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1561,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 16,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1562,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 1,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1563,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 31,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1564,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 34,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1565,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 67,
+    "gender": "F",
+    "type": "Importado",
+    "country_from": "Egipto"
+  },
+  {
+    "id": 1566,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 53,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1567,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 51,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1568,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 82,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1569,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 50,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1570,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 45,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1571,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 45,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1572,
+    "date": "06/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Hospital",
+    "age": 66,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1573,
+    "date": "06/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Hospital UCI",
+    "age": 55,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1574,
+    "date": "06/04/2020",
+    "city": "Popayán",
+    "region": "Cauca",
+    "status": "Fallecido",
+    "age": 3,
+    "gender": "F",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1575,
+    "date": "06/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Casa",
+    "age": 42,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1576,
+    "date": "06/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Casa",
+    "age": 15,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1577,
+    "date": "06/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Casa",
+    "age": 30,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1578,
+    "date": "06/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Casa",
+    "age": 55,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 1579,
+    "date": "06/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Hospital UCI",
+    "age": 73,
+    "gender": "M",
     "type": "En estudio",
     "country_from": "Colombia"
   }
