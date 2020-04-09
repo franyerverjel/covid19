@@ -57,9 +57,9 @@
   {
     "id": 6,
     "date": "11/03/2020",
-    "city": "Itagüi",
+    "city": "Itagüí",
     "region": "Antioquia",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 27,
     "gender": "F",
     "type": "Relacionado",
@@ -74,7 +74,7 @@
     "age": 85,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 8,
@@ -136,7 +136,7 @@
     "date": "12/03/2020",
     "city": "Neiva",
     "region": "Huila",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 68,
     "gender": "F",
     "type": "Relacionado",
@@ -239,7 +239,7 @@
     "age": 36,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 23,
@@ -305,7 +305,7 @@
     "age": 22,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 29,
@@ -338,7 +338,7 @@
     "age": 65,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 32,
@@ -393,7 +393,7 @@
     "age": 72,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 37,
@@ -554,7 +554,7 @@
     "date": "16/03/2020",
     "city": "Soacha",
     "region": "Cundinamarca",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 24,
     "gender": "M",
     "type": "Importado",
@@ -631,7 +631,7 @@
     "date": "17/03/2020",
     "city": "Cartagena",
     "region": "Cartagena D.T. y C",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 27,
     "gender": "M",
     "type": "Relacionado",
@@ -756,7 +756,7 @@
     "age": 22,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 70,
@@ -767,7 +767,7 @@
     "age": 37,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 71,
@@ -785,7 +785,7 @@
     "date": "17/03/2020",
     "city": "Cúcuta",
     "region": "Norte de Santander",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 22,
     "gender": "F",
     "type": "Relacionado",
@@ -888,7 +888,7 @@
     "age": 49,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 82,
@@ -906,11 +906,11 @@
     "date": "18/03/2020",
     "city": "Cali",
     "region": "Valle del Cauca",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 56,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 84,
@@ -1031,7 +1031,7 @@
     "age": 53,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 95,
@@ -1042,7 +1042,7 @@
     "age": 69,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 96,
@@ -1053,7 +1053,7 @@
     "age": 37,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 97,
@@ -1064,7 +1064,7 @@
     "age": 24,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 98,
@@ -1207,7 +1207,7 @@
     "age": 62,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 111,
@@ -1251,7 +1251,7 @@
     "age": 49,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 115,
@@ -1324,7 +1324,7 @@
     "date": "19/03/2020",
     "city": "Popayán",
     "region": "Cauca",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 61,
     "gender": "M",
     "type": "Importado",
@@ -1383,14 +1383,14 @@
     "age": 52,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 127,
     "date": "19/03/2020",
     "city": "Barranquilla",
     "region": "Barranquilla D.E.",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 30,
     "gender": "F",
     "type": "Relacionado",
@@ -1412,7 +1412,7 @@
     "date": "20/03/2020",
     "city": "Pereira",
     "region": "Risaralda",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 26,
     "gender": "F",
     "type": "Importado",
@@ -1423,11 +1423,11 @@
     "date": "20/03/2020",
     "city": "Anapoima",
     "region": "Cundinamarca",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 53,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 131,
@@ -1581,7 +1581,7 @@
     "age": 41,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 145,
@@ -1669,7 +1669,7 @@
     "age": 65,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 153,
@@ -1746,7 +1746,7 @@
     "age": 34,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 160,
@@ -1757,7 +1757,7 @@
     "age": 42,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 161,
@@ -1768,7 +1768,7 @@
     "age": 22,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 162,
@@ -1779,7 +1779,7 @@
     "age": 25,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 163,
@@ -1900,7 +1900,7 @@
     "age": 65,
     "gender": "F",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 174,
@@ -1911,7 +1911,7 @@
     "age": 70,
     "gender": "M",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 175,
@@ -1929,11 +1929,11 @@
     "date": "21/03/2020",
     "city": "Ibagué",
     "region": "Tolima",
-    "status": "Hospital UCI",
+    "status": "Recuperado",
     "age": 26,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 177,
@@ -1951,11 +1951,11 @@
     "date": "21/03/2020",
     "city": "Cartagena",
     "region": "Cartagena D.T. y C",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 28,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 179,
@@ -1971,7 +1971,7 @@
   {
     "id": 180,
     "date": "21/03/2020",
-    "city": "Villa del Rosario",
+    "city": "Villa Del Rosario",
     "region": "Norte de Santander",
     "status": "Casa",
     "age": 27,
@@ -1988,7 +1988,7 @@
     "age": 22,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 182,
@@ -2021,7 +2021,7 @@
     "age": 41,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 185,
@@ -2076,7 +2076,7 @@
     "age": 81,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 190,
@@ -2098,7 +2098,7 @@
     "age": 17,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 192,
@@ -2142,7 +2142,7 @@
     "age": 65,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 196,
@@ -2182,11 +2182,11 @@
     "date": "21/03/2020",
     "city": "Guarne",
     "region": "Antioquia",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 28,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 200,
@@ -2226,11 +2226,11 @@
     "date": "21/03/2020",
     "city": "Barranquilla",
     "region": "Barranquilla D.E.",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 24,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 204,
@@ -2241,7 +2241,7 @@
     "age": 35,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 205,
@@ -2307,12 +2307,12 @@
     "age": 55,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 211,
     "date": "22/03/2020",
-    "city": "Calarcá",
+    "city": "Calarca",
     "region": "Quindío",
     "status": "Casa",
     "age": 25,
@@ -2402,7 +2402,7 @@
     "date": "22/03/2020",
     "city": "Chinchiná",
     "region": "Caldas",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 51,
     "gender": "M",
     "type": "Importado",
@@ -2413,7 +2413,7 @@
     "date": "22/03/2020",
     "city": "Chinchiná",
     "region": "Caldas",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 47,
     "gender": "F",
     "type": "Relacionado",
@@ -2424,18 +2424,18 @@
     "date": "22/03/2020",
     "city": "Bucaramanga",
     "region": "Santander",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 49,
     "gender": "F",
     "type": "Importado",
-    "country_from": "República Dominicana"
+    "country_from": "Republica Dominicana"
   },
   {
     "id": 222,
     "date": "22/03/2020",
     "city": "San Andrés",
     "region": "San Andrés",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 36,
     "gender": "M",
     "type": "Relacionado",
@@ -2450,14 +2450,14 @@
     "age": 73,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 224,
     "date": "22/03/2020",
     "city": "Ibagué",
     "region": "Tolima",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 19,
     "gender": "M",
     "type": "Relacionado",
@@ -2468,7 +2468,7 @@
     "date": "22/03/2020",
     "city": "Cali",
     "region": "Valle del Cauca",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 22,
     "gender": "M",
     "type": "Relacionado",
@@ -2494,7 +2494,7 @@
     "age": 28,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 228,
@@ -2534,7 +2534,7 @@
     "date": "22/03/2020",
     "city": "Cali",
     "region": "Valle del Cauca",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 46,
     "gender": "F",
     "type": "Relacionado",
@@ -2622,7 +2622,7 @@
     "date": "22/03/2020",
     "city": "Rionegro",
     "region": "Antioquia",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 41,
     "gender": "M",
     "type": "Importado",
@@ -2659,7 +2659,7 @@
     "age": 49,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 243,
@@ -2681,7 +2681,7 @@
     "age": 52,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 245,
@@ -2692,7 +2692,7 @@
     "age": 72,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 246,
@@ -2725,7 +2725,7 @@
     "age": 30,
     "gender": "F",
     "type": "Importado",
-    "country_from": "República Dominicana"
+    "country_from": "Republica Dominicana"
   },
   {
     "id": 249,
@@ -2758,7 +2758,7 @@
     "age": 55,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 252,
@@ -2802,7 +2802,7 @@
     "age": 19,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 256,
@@ -2813,7 +2813,7 @@
     "age": 57,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 257,
@@ -2835,7 +2835,7 @@
     "age": 26,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 259,
@@ -2879,7 +2879,7 @@
     "age": 39,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Isla San Martín"
+    "country_from": "Isla San Martin"
   },
   {
     "id": 263,
@@ -2908,7 +2908,7 @@
     "date": "23/03/2020",
     "city": "Cajicá",
     "region": "Cundinamarca",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 54,
     "gender": "M",
     "type": "Importado",
@@ -2934,7 +2934,7 @@
     "age": 21,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 268,
@@ -2952,7 +2952,7 @@
     "date": "23/03/2020",
     "city": "Chía",
     "region": "Cundinamarca",
-    "status": "Hospital",
+    "status": "Recuperado",
     "age": 56,
     "gender": "M",
     "type": "Relacionado",
@@ -2974,7 +2974,7 @@
     "date": "23/03/2020",
     "city": "Medellín",
     "region": "Antioquia",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 21,
     "gender": "F",
     "type": "Importado",
@@ -2985,7 +2985,7 @@
     "date": "23/03/2020",
     "city": "Medellín",
     "region": "Antioquia",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 47,
     "gender": "F",
     "type": "Importado",
@@ -3000,7 +3000,7 @@
     "age": 87,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 274,
@@ -3011,7 +3011,7 @@
     "age": 30,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 275,
@@ -3029,7 +3029,7 @@
     "date": "23/03/2020",
     "city": "Cota",
     "region": "Cundinamarca",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 52,
     "gender": "M",
     "type": "Importado",
@@ -3044,14 +3044,14 @@
     "age": 36,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 278,
     "date": "23/03/2020",
     "city": "Armenia",
     "region": "Quindío",
-    "status": "Hospital UCI",
+    "status": "Recuperado",
     "age": 64,
     "gender": "M",
     "type": "Importado",
@@ -3060,9 +3060,9 @@
   {
     "id": 279,
     "date": "23/03/2020",
-    "city": "Villamaría",
+    "city": "Villamaria",
     "region": "Caldas",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 29,
     "gender": "M",
     "type": "Importado",
@@ -3099,14 +3099,14 @@
     "age": 40,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 283,
     "date": "23/03/2020",
     "city": "Cali",
     "region": "Valle del Cauca",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 56,
     "gender": "M",
     "type": "Relacionado",
@@ -3150,7 +3150,7 @@
     "date": "23/03/2020",
     "city": "Soacha",
     "region": "Cundinamarca",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 25,
     "gender": "M",
     "type": "En estudio",
@@ -3209,7 +3209,7 @@
     "age": 43,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 293,
@@ -3231,7 +3231,7 @@
     "age": 30,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 295,
@@ -3282,7 +3282,7 @@
     "date": "23/03/2020",
     "city": "Villavicencio",
     "region": "Meta",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 60,
     "gender": "F",
     "type": "Importado",
@@ -3297,40 +3297,40 @@
     "age": 29,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 301,
     "date": "23/03/2020",
-    "city": "Apartadó",
+    "city": "Apartado",
     "region": "Antioquia",
     "status": "Casa",
     "age": 29,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 302,
     "date": "23/03/2020",
     "city": "Villavicencio",
     "region": "Meta",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 33,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 303,
     "date": "23/03/2020",
-    "city": "Itagüi",
+    "city": "Itagüí",
     "region": "Antioquia",
     "status": "Hospital UCI",
     "age": 74,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 304,
@@ -3341,14 +3341,14 @@
     "age": 30,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 305,
     "date": "23/03/2020",
     "city": "Villavicencio",
     "region": "Meta",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 29,
     "gender": "M",
     "type": "Importado",
@@ -3359,7 +3359,7 @@
     "date": "23/03/2020",
     "city": "Rionegro",
     "region": "Antioquia",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 29,
     "gender": "M",
     "type": "Importado",
@@ -3396,7 +3396,7 @@
     "age": 59,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 310,
@@ -3407,7 +3407,7 @@
     "age": 28,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 311,
@@ -3447,7 +3447,7 @@
     "date": "24/03/2020",
     "city": "Ipiales",
     "region": "Nariño",
-    "status": "Casa",
+    "status": "fallecido",
     "age": 62,
     "gender": "M",
     "type": "Importado",
@@ -3462,7 +3462,7 @@
     "age": 49,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Canadá"
+    "country_from": "Canada"
   },
   {
     "id": 316,
@@ -3473,14 +3473,14 @@
     "age": 18,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 317,
     "date": "24/03/2020",
     "city": "Mosquera",
     "region": "Cundinamarca",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 37,
     "gender": "M",
     "type": "Relacionado",
@@ -3528,7 +3528,7 @@
     "age": 23,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 322,
@@ -3557,11 +3557,11 @@
     "date": "24/03/2020",
     "city": "Barranquilla",
     "region": "Barranquilla D.E.",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 57,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 325,
@@ -3770,7 +3770,7 @@
     "age": 26,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 344,
@@ -3843,11 +3843,11 @@
     "date": "24/03/2020",
     "city": "Fusagasugá",
     "region": "Cundinamarca",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 54,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 351,
@@ -3968,7 +3968,7 @@
     "age": 80,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 362,
@@ -4050,7 +4050,7 @@
   {
     "id": 369,
     "date": "24/03/2020",
-    "city": "Darién",
+    "city": "Darien",
     "region": "Valle del Cauca",
     "status": "Casa",
     "age": 41,
@@ -4085,11 +4085,11 @@
     "date": "24/03/2020",
     "city": "Manizales",
     "region": "Caldas",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 70,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 373,
@@ -4100,7 +4100,7 @@
     "age": 39,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 374,
@@ -4155,7 +4155,7 @@
     "age": 45,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 379,
@@ -4232,7 +4232,7 @@
     "age": 51,
     "gender": "M",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 386,
@@ -4250,7 +4250,7 @@
     "date": "24/03/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Hospital UCI",
+    "status": "Casa",
     "age": 43,
     "gender": "F",
     "type": "Relacionado",
@@ -4265,7 +4265,7 @@
     "age": 29,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 389,
@@ -4320,7 +4320,7 @@
     "age": 34,
     "gender": "M",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 394,
@@ -4331,7 +4331,7 @@
     "age": 66,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 395,
@@ -4353,7 +4353,7 @@
     "age": 44,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Canadá"
+    "country_from": "Canada"
   },
   {
     "id": 397,
@@ -4430,7 +4430,7 @@
     "age": 21,
     "gender": "M",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 404,
@@ -4518,7 +4518,7 @@
     "age": 23,
     "gender": "F",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 412,
@@ -4661,7 +4661,7 @@
     "age": 64,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 425,
@@ -4705,7 +4705,7 @@
     "age": 44,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 429,
@@ -4771,7 +4771,7 @@
     "age": 25,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 435,
@@ -4888,7 +4888,7 @@
     "date": "25/03/2020",
     "city": "Santana",
     "region": "Boyacá",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 57,
     "gender": "F",
     "type": "Relacionado",
@@ -4954,11 +4954,11 @@
     "date": "25/03/2020",
     "city": "Bucaramanga",
     "region": "Santander",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 33,
     "gender": "F",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 452,
@@ -5002,7 +5002,7 @@
     "age": 35,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 456,
@@ -5024,7 +5024,7 @@
     "age": 29,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 458,
@@ -5174,11 +5174,11 @@
     "date": "25/03/2020",
     "city": "Barranquilla",
     "region": "Barranquilla D.E.",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 50,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 472,
@@ -5222,7 +5222,7 @@
     "age": 37,
     "gender": "F",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 476,
@@ -5233,7 +5233,7 @@
     "age": 41,
     "gender": "M",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 477,
@@ -5277,7 +5277,7 @@
     "age": 57,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 481,
@@ -5372,7 +5372,7 @@
     "date": "26/03/2020",
     "city": "Tunja",
     "region": "Boyacá",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 69,
     "gender": "M",
     "type": "Importado",
@@ -5387,7 +5387,7 @@
     "age": 32,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 491,
@@ -5442,7 +5442,7 @@
     "age": 35,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 496,
@@ -5453,7 +5453,7 @@
     "age": 32,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 497,
@@ -5464,7 +5464,7 @@
     "age": 34,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 498,
@@ -5647,7 +5647,7 @@
     "date": "27/3/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Hospital UCI",
+    "status": "Fallecido",
     "age": 71,
     "gender": "M",
     "type": "Relacionado",
@@ -5761,7 +5761,7 @@
     "age": 37,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 525,
@@ -5871,7 +5871,7 @@
     "age": 26,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 535,
@@ -5933,7 +5933,7 @@
     "date": "28/3/2020",
     "city": "Mosquera",
     "region": "Cundinamarca",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 37,
     "gender": "M",
     "type": "Importado",
@@ -6008,9 +6008,9 @@
   {
     "id": 547,
     "date": "28/3/2020",
-    "city": "Sahagún",
+    "city": "Sahagun",
     "region": "Córdoba",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 29,
     "gender": "F",
     "type": "Importado",
@@ -6025,7 +6025,7 @@
     "age": 54,
     "gender": "M",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 549,
@@ -6043,7 +6043,7 @@
     "date": "28/3/2020",
     "city": "Polonuevo",
     "region": "Atlántico",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 16,
     "gender": "M",
     "type": "En estudio",
@@ -6113,7 +6113,7 @@
     "age": 43,
     "gender": "M",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 557,
@@ -6366,7 +6366,7 @@
     "age": 68,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 580,
@@ -6421,7 +6421,7 @@
     "age": 37,
     "gender": "M",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 585,
@@ -6448,7 +6448,7 @@
   {
     "id": 587,
     "date": "28/3/2020",
-    "city": "Villapinzón",
+    "city": "Villapinzon",
     "region": "Cundinamarca",
     "status": "Fallecido",
     "age": 67,
@@ -6538,11 +6538,11 @@
     "date": "28/3/2020",
     "city": "Medellín",
     "region": "Antioquia",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 27,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 596,
@@ -6553,7 +6553,7 @@
     "age": 52,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 597,
@@ -6575,7 +6575,7 @@
     "age": 24,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 599,
@@ -6586,7 +6586,7 @@
     "age": 32,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 600,
@@ -6608,14 +6608,14 @@
     "age": 59,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 602,
     "date": "28/3/2020",
     "city": "Medellín",
     "region": "Antioquia",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 46,
     "gender": "F",
     "type": "Importado",
@@ -6681,7 +6681,7 @@
     "date": "28/3/2020",
     "city": "Barranquilla",
     "region": "Barranquilla D.E.",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 47,
     "gender": "M",
     "type": "Importado",
@@ -6696,7 +6696,7 @@
     "age": 51,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 610,
@@ -6718,7 +6718,7 @@
     "age": 82,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 612,
@@ -6817,7 +6817,7 @@
     "age": 45,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Emiratos Árabes"
+    "country_from": "Emiratos Arabes"
   },
   {
     "id": 621,
@@ -6894,7 +6894,7 @@
     "age": 45,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Isla San Martín"
+    "country_from": "Isla San Martin"
   },
   {
     "id": 628,
@@ -6971,7 +6971,7 @@
     "age": 50,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 635,
@@ -7015,7 +7015,7 @@
     "age": 58,
     "gender": "F",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 639,
@@ -7070,7 +7070,7 @@
     "age": 25,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 644,
@@ -7081,7 +7081,7 @@
     "age": 22,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 645,
@@ -7114,7 +7114,7 @@
     "age": 28,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Bélgica"
+    "country_from": "Belgica"
   },
   {
     "id": 648,
@@ -7202,7 +7202,7 @@
     "age": 29,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 656,
@@ -7352,7 +7352,7 @@
     "date": "29/3/2020",
     "city": "Sincelejo",
     "region": "Sucre",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 21,
     "gender": "F",
     "type": "Relacionado",
@@ -7361,7 +7361,7 @@
   {
     "id": 670,
     "date": "29/3/2020",
-    "city": "Villamaría",
+    "city": "Villamaria",
     "region": "Caldas",
     "status": "Casa",
     "age": 39,
@@ -7422,7 +7422,7 @@
     "age": 41,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 676,
@@ -7521,7 +7521,7 @@
     "age": 42,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 685,
@@ -7543,7 +7543,7 @@
     "age": 58,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 687,
@@ -7554,7 +7554,7 @@
     "age": 24,
     "gender": "M",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 688,
@@ -7581,7 +7581,7 @@
   {
     "id": 690,
     "date": "29/3/2020",
-    "city": "Oicatá",
+    "city": "Oicata",
     "region": "Boyacá",
     "status": "Casa",
     "age": 72,
@@ -7598,7 +7598,7 @@
     "age": 55,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 692,
@@ -7686,7 +7686,7 @@
     "age": 47,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 700,
@@ -7719,7 +7719,7 @@
     "age": 22,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 703,
@@ -7741,7 +7741,7 @@
     "age": 21,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 705,
@@ -7752,7 +7752,7 @@
     "age": 60,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 706,
@@ -7768,7 +7768,7 @@
   {
     "id": 707,
     "date": "30/3/2020",
-    "city": "Villapinzón",
+    "city": "Villapinzon",
     "region": "Cundinamarca",
     "status": "Fallecido",
     "age": 65,
@@ -7785,7 +7785,7 @@
     "age": 54,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 709,
@@ -7862,7 +7862,7 @@
     "age": 36,
     "gender": "F",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 716,
@@ -7917,7 +7917,7 @@
     "age": 31,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 721,
@@ -8038,7 +8038,7 @@
     "age": 82,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 732,
@@ -8104,7 +8104,7 @@
     "age": 26,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 738,
@@ -8136,7 +8136,7 @@
     "status": "Casa",
     "age": 29,
     "gender": "F",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -8158,7 +8158,7 @@
     "status": "Casa",
     "age": 38,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -8192,7 +8192,7 @@
     "age": 51,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 746,
@@ -8302,7 +8302,7 @@
     "age": 33,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Isla San Martín"
+    "country_from": "Isla San Martin"
   },
   {
     "id": 756,
@@ -8313,7 +8313,7 @@
     "age": 38,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Isla San Martín"
+    "country_from": "Isla San Martin"
   },
   {
     "id": 757,
@@ -8324,7 +8324,7 @@
     "age": 38,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Isla San Martín"
+    "country_from": "Isla San Martin"
   },
   {
     "id": 758,
@@ -8335,7 +8335,7 @@
     "age": 31,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Isla San Martín"
+    "country_from": "Isla San Martin"
   },
   {
     "id": 759,
@@ -8346,7 +8346,7 @@
     "age": 74,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Isla San Martín"
+    "country_from": "Isla San Martin"
   },
   {
     "id": 760,
@@ -8434,7 +8434,7 @@
     "age": 31,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 768,
@@ -8500,7 +8500,7 @@
     "age": 33,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 774,
@@ -8511,7 +8511,7 @@
     "age": 68,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 775,
@@ -8775,7 +8775,7 @@
     "age": 63,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 799,
@@ -8925,7 +8925,7 @@
     "date": "31/3/2020",
     "city": "Valledupar",
     "region": "Cesar",
-    "status": "Hospital",
+    "status": "Casa",
     "age": 46,
     "gender": "M",
     "type": "Relacionado",
@@ -8962,7 +8962,7 @@
     "age": 31,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 816,
@@ -9006,7 +9006,7 @@
     "age": 26,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 820,
@@ -9017,7 +9017,7 @@
     "age": 42,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 821,
@@ -9083,7 +9083,7 @@
     "age": 24,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 827,
@@ -9094,7 +9094,7 @@
     "age": 25,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 828,
@@ -9105,7 +9105,7 @@
     "age": 77,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 829,
@@ -9149,7 +9149,7 @@
     "age": 59,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 833,
@@ -9204,7 +9204,7 @@
     "age": 57,
     "gender": "M",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 838,
@@ -9292,7 +9292,7 @@
     "age": 47,
     "gender": "F",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 846,
@@ -9303,7 +9303,7 @@
     "age": 31,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 847,
@@ -9314,7 +9314,7 @@
     "age": 29,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 848,
@@ -9325,7 +9325,7 @@
     "age": 29,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 849,
@@ -9358,7 +9358,7 @@
     "age": 50,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Canadá"
+    "country_from": "Canada"
   },
   {
     "id": 852,
@@ -9369,7 +9369,7 @@
     "age": 25,
     "gender": "M",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 853,
@@ -9380,7 +9380,7 @@
     "age": 34,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 854,
@@ -9391,7 +9391,7 @@
     "age": 57,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 855,
@@ -9490,7 +9490,7 @@
     "age": 22,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 864,
@@ -9506,7 +9506,7 @@
   {
     "id": 865,
     "date": "31/3/2020",
-    "city": "Toguí",
+    "city": "Togui",
     "region": "Boyacá",
     "status": "Casa",
     "age": 70,
@@ -9600,7 +9600,7 @@
     "age": 15,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 874,
@@ -9611,7 +9611,7 @@
     "age": 30,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 875,
@@ -9644,7 +9644,7 @@
     "age": 58,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 878,
@@ -9699,7 +9699,7 @@
     "age": 40,
     "gender": "F",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 883,
@@ -9841,7 +9841,7 @@
     "status": "Casa",
     "age": 38,
     "gender": "F",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -9885,8 +9885,8 @@
     "status": "Casa",
     "age": 20,
     "gender": "F",
-    "type": "En estudio",
-    "country_from": "Colombia"
+    "type": "Importado",
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 900,
@@ -10051,7 +10051,7 @@
     "age": 48,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 915,
@@ -10128,7 +10128,7 @@
     "age": 58,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 922,
@@ -10144,7 +10144,7 @@
   {
     "id": 923,
     "date": "01/04/2020",
-    "city": "Santander de Quilichao",
+    "city": "Santander De Quilichao",
     "region": "Cauca",
     "status": "Fallecido",
     "age": 19,
@@ -10227,7 +10227,7 @@
     "age": 35,
     "gender": "M",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 931,
@@ -10259,7 +10259,7 @@
     "status": "Casa",
     "age": 23,
     "gender": "F",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -10298,13 +10298,13 @@
   {
     "id": 937,
     "date": "01/04/2020",
-    "city": "CALI",
+    "city": "Cali",
     "region": "Valle del Cauca",
     "status": "Casa",
     "age": 50,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 938,
@@ -10315,7 +10315,7 @@
     "age": 21,
     "gender": "F",
     "type": "Importado",
-    "country_from": "República Dominicana"
+    "country_from": "Republica Dominicana"
   },
   {
     "id": 939,
@@ -10436,7 +10436,7 @@
     "age": 31,
     "gender": "M",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 950,
@@ -10476,7 +10476,7 @@
     "date": "01/04/2020",
     "city": "Valledupar",
     "region": "Cesar",
-    "status": "Casa",
+    "status": "Recuperado",
     "age": 33,
     "gender": "M",
     "type": "Relacionado",
@@ -10518,7 +10518,7 @@
   {
     "id": 957,
     "date": "01/04/2020",
-    "city": "cali",
+    "city": "Cali",
     "region": "Valle del Cauca",
     "status": "Casa",
     "age": 46,
@@ -10612,7 +10612,7 @@
     "age": 32,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 966,
@@ -10634,7 +10634,7 @@
     "age": 44,
     "gender": "F",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 968,
@@ -10645,7 +10645,7 @@
     "age": 46,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 969,
@@ -10667,7 +10667,7 @@
     "age": 35,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 971,
@@ -10722,7 +10722,7 @@
     "age": 22,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 976,
@@ -10755,7 +10755,7 @@
     "age": 26,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 979,
@@ -10777,7 +10777,7 @@
     "age": 57,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 981,
@@ -10788,7 +10788,7 @@
     "age": 40,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 982,
@@ -10799,7 +10799,7 @@
     "age": 41,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 983,
@@ -10809,7 +10809,7 @@
     "status": "Casa",
     "age": 63,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -10820,7 +10820,7 @@
     "status": "Casa",
     "age": 15,
     "gender": "F",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -10843,7 +10843,7 @@
     "age": 49,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 987,
@@ -10897,7 +10897,7 @@
     "status": "Casa",
     "age": 51,
     "gender": "F",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -10906,7 +10906,7 @@
     "city": "Bogotá",
     "region": "Bogotá D.C.",
     "status": "Casa",
-    "age": 54,
+    "age": 60,
     "gender": "M",
     "type": "En estudio",
     "country_from": "Colombia"
@@ -11018,8 +11018,8 @@
     "status": "Casa",
     "age": 24,
     "gender": "M",
-    "type": "En estudio",
-    "country_from": "Colombia"
+    "type": "Importado",
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1003,
@@ -11327,7 +11327,7 @@
     "age": 39,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1031,
@@ -11376,8 +11376,8 @@
   {
     "id": 1035,
     "date": "01/04/2020",
-    "city": "Bogotá",
-    "region": "Bogotá D.C.",
+    "city": "Soacha",
+    "region": "Cundinamarca",
     "status": "Casa",
     "age": 2,
     "gender": "F",
@@ -11415,7 +11415,7 @@
     "age": 40,
     "gender": "M",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 1039,
@@ -11437,7 +11437,7 @@
     "age": 70,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1041,
@@ -11491,7 +11491,7 @@
     "status": "Casa",
     "age": 26,
     "gender": "F",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -11514,7 +11514,7 @@
     "age": 49,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 1048,
@@ -11525,7 +11525,7 @@
     "age": 36,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 1049,
@@ -11602,7 +11602,7 @@
     "age": 61,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Israel Egipto"
+    "country_from": "Israel - Egipto"
   },
   {
     "id": 1056,
@@ -11613,7 +11613,7 @@
     "age": 25,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1057,
@@ -11712,7 +11712,7 @@
     "age": 32,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 1066,
@@ -11723,7 +11723,7 @@
     "age": 40,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1067,
@@ -11734,7 +11734,7 @@
     "age": 51,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 1068,
@@ -11767,7 +11767,7 @@
     "age": 52,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 1071,
@@ -11789,7 +11789,7 @@
     "age": 51,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1073,
@@ -11800,7 +11800,7 @@
     "age": 37,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 1074,
@@ -11811,18 +11811,18 @@
     "age": 39,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1075,
     "date": "02/04/2020",
-    "city": "Itagüi",
+    "city": "Itagüí",
     "region": "Antioquia",
     "status": "Casa",
     "age": 68,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1076,
@@ -11899,7 +11899,7 @@
     "age": 44,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1083,
@@ -11921,7 +11921,7 @@
     "age": 42,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Perú"
+    "country_from": "Peru"
   },
   {
     "id": 1085,
@@ -11954,7 +11954,7 @@
     "age": 26,
     "gender": "M",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 1088,
@@ -11970,13 +11970,13 @@
   {
     "id": 1089,
     "date": "02/04/2020",
-    "city": "Don Matías",
+    "city": "Don Matias",
     "region": "Antioquia",
     "status": "Casa",
     "age": 50,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1090,
@@ -12020,7 +12020,7 @@
     "age": 55,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Perú"
+    "country_from": "Peru"
   },
   {
     "id": 1094,
@@ -12086,7 +12086,7 @@
     "age": 35,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 1100,
@@ -12097,7 +12097,7 @@
     "age": 59,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1101,
@@ -12163,7 +12163,7 @@
     "age": 71,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1107,
@@ -12174,7 +12174,7 @@
     "age": 66,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1108,
@@ -12229,7 +12229,7 @@
     "age": 29,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1113,
@@ -12327,7 +12327,7 @@
     "status": "Casa",
     "age": 62,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -12405,7 +12405,7 @@
     "age": 47,
     "gender": "F",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 1129,
@@ -12482,7 +12482,7 @@
     "age": 67,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1136,
@@ -12691,7 +12691,7 @@
     "age": 20,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1155,
@@ -12713,7 +12713,7 @@
     "age": 32,
     "gender": "M",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 1157,
@@ -12724,7 +12724,7 @@
     "age": 28,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1158,
@@ -12856,7 +12856,7 @@
     "age": 75,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1170,
@@ -13098,7 +13098,7 @@
     "age": 23,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 1192,
@@ -13109,7 +13109,7 @@
     "age": 52,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1193,
@@ -13175,7 +13175,7 @@
     "age": 47,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1199,
@@ -13351,7 +13351,7 @@
     "age": 47,
     "gender": "M",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 1215,
@@ -13428,7 +13428,7 @@
     "age": 27,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1222,
@@ -13670,7 +13670,7 @@
     "age": 58,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1244,
@@ -13747,7 +13747,7 @@
     "age": 30,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1251,
@@ -13873,7 +13873,7 @@
   {
     "id": 1262,
     "date": "03/04/2020",
-    "city": "Itagüi",
+    "city": "Itagüí",
     "region": "Antioquia",
     "status": "Casa",
     "age": 78,
@@ -13890,12 +13890,12 @@
     "age": 26,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1264,
     "date": "03/04/2020",
-    "city": "Itagüi",
+    "city": "Itagüí",
     "region": "Antioquia",
     "status": "Casa",
     "age": 59,
@@ -13906,7 +13906,7 @@
   {
     "id": 1265,
     "date": "03/04/2020",
-    "city": "Itagüi",
+    "city": "Itagüí",
     "region": "Antioquia",
     "status": "Casa",
     "age": 9,
@@ -13917,7 +13917,7 @@
   {
     "id": 1266,
     "date": "03/04/2020",
-    "city": "Itagüi",
+    "city": "Itagüí",
     "region": "Antioquia",
     "status": "Casa",
     "age": 54,
@@ -13928,7 +13928,7 @@
   {
     "id": 1267,
     "date": "03/04/2020",
-    "city": "Cocorná",
+    "city": "Cocorna",
     "region": "Antioquia",
     "status": "Casa",
     "age": 25,
@@ -13956,7 +13956,7 @@
     "age": 81,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 1270,
@@ -14060,7 +14060,7 @@
   {
     "id": 1279,
     "date": "04/04/2020",
-    "city": "Montería",
+    "city": "Monteria",
     "region": "Córdoba",
     "status": "Fallecido",
     "age": 64,
@@ -14082,7 +14082,7 @@
   {
     "id": 1281,
     "date": "04/04/2020",
-    "city": "Toguí",
+    "city": "Togui",
     "region": "Boyacá",
     "status": "Casa",
     "age": 42,
@@ -14093,7 +14093,7 @@
   {
     "id": 1282,
     "date": "04/04/2020",
-    "city": "Toguí",
+    "city": "Togui",
     "region": "Boyacá",
     "status": "Casa",
     "age": 40,
@@ -14104,7 +14104,7 @@
   {
     "id": 1283,
     "date": "04/04/2020",
-    "city": "Toguí",
+    "city": "Togui",
     "region": "Boyacá",
     "status": "Casa",
     "age": 29,
@@ -14115,7 +14115,7 @@
   {
     "id": 1284,
     "date": "04/04/2020",
-    "city": "Toguí",
+    "city": "Togui",
     "region": "Boyacá",
     "status": "Casa",
     "age": 72,
@@ -14126,7 +14126,7 @@
   {
     "id": 1285,
     "date": "04/04/2020",
-    "city": "Toguí",
+    "city": "Togui",
     "region": "Boyacá",
     "status": "Casa",
     "age": 50,
@@ -14137,7 +14137,7 @@
   {
     "id": 1286,
     "date": "04/04/2020",
-    "city": "Toguí",
+    "city": "Togui",
     "region": "Boyacá",
     "status": "Casa",
     "age": 20,
@@ -14148,7 +14148,7 @@
   {
     "id": 1287,
     "date": "04/04/2020",
-    "city": "Toguí",
+    "city": "Togui",
     "region": "Boyacá",
     "status": "Casa",
     "age": 2,
@@ -14396,7 +14396,7 @@
     "age": 27,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1310,
@@ -14407,7 +14407,7 @@
     "age": 25,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1311,
@@ -14462,7 +14462,7 @@
     "age": 23,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1316,
@@ -14528,7 +14528,7 @@
     "age": 26,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1322,
@@ -14550,7 +14550,7 @@
     "age": 55,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 1324,
@@ -14638,7 +14638,7 @@
     "age": 29,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1332,
@@ -14704,7 +14704,7 @@
     "age": 34,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1338,
@@ -14759,7 +14759,7 @@
     "age": 46,
     "gender": "M",
     "type": "Importado",
-    "country_from": "República Dominicana"
+    "country_from": "Republica Dominicana"
   },
   {
     "id": 1343,
@@ -14825,7 +14825,7 @@
     "age": 32,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1349,
@@ -15210,7 +15210,7 @@
     "age": 59,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 1384,
@@ -15320,7 +15320,7 @@
     "age": 73,
     "gender": "F",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 1394,
@@ -15397,7 +15397,7 @@
     "age": 29,
     "gender": "F",
     "type": "Importado",
-    "country_from": "República Dominicana"
+    "country_from": "Republica Dominicana"
   },
   {
     "id": 1401,
@@ -15408,7 +15408,7 @@
     "age": 48,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Canadá"
+    "country_from": "Canada"
   },
   {
     "id": 1402,
@@ -15419,7 +15419,7 @@
     "age": 29,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1403,
@@ -15452,7 +15452,7 @@
     "age": 41,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 1406,
@@ -15485,7 +15485,7 @@
     "age": 34,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Perú"
+    "country_from": "Peru"
   },
   {
     "id": 1409,
@@ -15507,7 +15507,7 @@
     "age": 51,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1411,
@@ -15540,12 +15540,12 @@
     "age": 25,
     "gender": "F",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 1414,
     "date": "05/04/2020",
-    "city": "Itagüi",
+    "city": "Itagüí",
     "region": "Antioquia",
     "status": "Hospital",
     "age": 43,
@@ -15562,7 +15562,7 @@
     "age": 55,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1416,
@@ -15628,7 +15628,7 @@
     "age": 38,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1422,
@@ -15677,7 +15677,7 @@
   {
     "id": 1426,
     "date": "05/04/2020",
-    "city": "Itagüi",
+    "city": "Itagüí",
     "region": "Antioquia",
     "status": "Casa",
     "age": 53,
@@ -15688,7 +15688,7 @@
   {
     "id": 1427,
     "date": "05/04/2020",
-    "city": "Apartadó",
+    "city": "Apartado",
     "region": "Antioquia",
     "status": "Casa",
     "age": 37,
@@ -15738,7 +15738,7 @@
     "age": 45,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1432,
@@ -15765,13 +15765,13 @@
   {
     "id": 1434,
     "date": "05/04/2020",
-    "city": "Apartadó",
+    "city": "Apartado",
     "region": "Antioquia",
     "status": "Casa",
     "age": 37,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 1435,
@@ -15880,7 +15880,7 @@
     "status": "Casa",
     "age": 50,
     "gender": "F",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -15914,7 +15914,7 @@
     "age": 63,
     "gender": "F",
     "type": "Importado",
-    "country_from": "República Dominicana"
+    "country_from": "Republica Dominicana"
   },
   {
     "id": 1448,
@@ -15991,7 +15991,7 @@
     "age": 34,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1455,
@@ -16024,7 +16024,7 @@
     "age": 37,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1458,
@@ -16046,7 +16046,7 @@
     "age": 45,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1460,
@@ -16156,7 +16156,7 @@
     "age": 31,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1470,
@@ -16519,7 +16519,7 @@
     "age": 22,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1503,
@@ -16695,7 +16695,7 @@
     "age": 54,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1519,
@@ -16706,7 +16706,7 @@
     "age": 66,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 1520,
@@ -16922,7 +16922,7 @@
     "date": "06/04/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Hospital",
+    "status": "Fallecido",
     "age": 86,
     "gender": "M",
     "type": "En estudio",
@@ -16959,7 +16959,7 @@
     "age": 37,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1543,
@@ -16981,7 +16981,7 @@
     "age": 34,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Perú"
+    "country_from": "Peru"
   },
   {
     "id": 1545,
@@ -17055,7 +17055,7 @@
     "city": "Bogotá",
     "region": "Bogotá D.C.",
     "status": "Casa",
-    "age": 8,
+    "age": 0,
     "gender": "F",
     "type": "En estudio",
     "country_from": "Colombia"
@@ -17129,7 +17129,7 @@
   {
     "id": 1558,
     "date": "06/04/2020",
-    "city": "San Juan de Rio Seco",
+    "city": "San Juan De Rio Seco",
     "region": "Cundinamarca",
     "status": "Casa",
     "age": 23,
@@ -17377,7 +17377,7 @@
     "age": 31,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 1581,
@@ -17406,7 +17406,7 @@
     "date": "07/04/2020",
     "city": "Cartagena",
     "region": "Cartagena D.T. y C",
-    "status": "Hospital",
+    "status": "Fallecido",
     "age": 68,
     "gender": "M",
     "type": "En estudio",
@@ -17476,7 +17476,7 @@
     "age": 15,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1590,
@@ -17662,8 +17662,8 @@
     "status": "Casa",
     "age": 32,
     "gender": "F",
-    "type": "En estudio",
-    "country_from": "colombia"
+    "type": "Relacionado",
+    "country_from": "Colombia"
   },
   {
     "id": 1607,
@@ -17696,7 +17696,7 @@
     "age": 55,
     "gender": "M",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1610,
@@ -17718,7 +17718,7 @@
     "age": 57,
     "gender": "F",
     "type": "Importado",
-    "country_from": "españa"
+    "country_from": "España"
   },
   {
     "id": 1612,
@@ -17729,7 +17729,7 @@
     "age": 60,
     "gender": "F",
     "type": "Importado",
-    "country_from": "República Dominicana"
+    "country_from": "Republica Dominicana"
   },
   {
     "id": 1613,
@@ -17740,7 +17740,7 @@
     "age": 40,
     "gender": "M",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1614,
@@ -17751,7 +17751,7 @@
     "age": 42,
     "gender": "F",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1615,
@@ -17762,7 +17762,7 @@
     "age": 53,
     "gender": "F",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1616,
@@ -17773,7 +17773,7 @@
     "age": 21,
     "gender": "F",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1617,
@@ -17784,7 +17784,7 @@
     "age": 28,
     "gender": "M",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1618,
@@ -17794,8 +17794,8 @@
     "status": "Casa",
     "age": 29,
     "gender": "M",
-    "type": "En estudio",
-    "country_from": "colombia"
+    "type": "Relacionado",
+    "country_from": "Colombia"
   },
   {
     "id": 1619,
@@ -17805,8 +17805,8 @@
     "status": "Casa",
     "age": 23,
     "gender": "F",
-    "type": "En estudio",
-    "country_from": "colombia"
+    "type": "Relacionado",
+    "country_from": "Colombia"
   },
   {
     "id": 1620,
@@ -17817,7 +17817,7 @@
     "age": 51,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1621,
@@ -17828,7 +17828,7 @@
     "age": 27,
     "gender": "F",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1622,
@@ -17839,7 +17839,7 @@
     "age": 29,
     "gender": "M",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1623,
@@ -17850,7 +17850,7 @@
     "age": 45,
     "gender": "F",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1624,
@@ -17861,7 +17861,7 @@
     "age": 39,
     "gender": "F",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1625,
@@ -17883,7 +17883,7 @@
     "age": 77,
     "gender": "M",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1627,
@@ -17894,7 +17894,7 @@
     "age": 73,
     "gender": "F",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1628,
@@ -17905,7 +17905,7 @@
     "age": 73,
     "gender": "F",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1629,
@@ -17916,7 +17916,7 @@
     "age": 48,
     "gender": "F",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1630,
@@ -17927,7 +17927,7 @@
     "age": 69,
     "gender": "F",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1631,
@@ -17938,7 +17938,7 @@
     "age": 38,
     "gender": "F",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1632,
@@ -18004,7 +18004,7 @@
     "age": 22,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1638,
@@ -18015,7 +18015,7 @@
     "age": 48,
     "gender": "F",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1639,
@@ -18026,7 +18026,7 @@
     "age": 62,
     "gender": "M",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1640,
@@ -18069,8 +18069,8 @@
     "status": "Casa",
     "age": 36,
     "gender": "M",
-    "type": "Importado",
-    "country_from": "Estados unidos"
+    "type": "En estudio",
+    "country_from": "Colombia"
   },
   {
     "id": 1644,
@@ -18103,7 +18103,7 @@
     "age": 52,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Perú"
+    "country_from": "Peru"
   },
   {
     "id": 1647,
@@ -18124,8 +18124,8 @@
     "status": "Casa",
     "age": 49,
     "gender": "F",
-    "type": "En estudio",
-    "country_from": "colombia"
+    "type": "Relacionado",
+    "country_from": "Colombia"
   },
   {
     "id": 1649,
@@ -18146,8 +18146,8 @@
     "status": "Casa",
     "age": 51,
     "gender": "M",
-    "type": "En estudio",
-    "country_from": "colombia"
+    "type": "Relacionado",
+    "country_from": "Colombia"
   },
   {
     "id": 1651,
@@ -18180,7 +18180,7 @@
     "age": 31,
     "gender": "F",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1654,
@@ -18191,7 +18191,7 @@
     "age": 35,
     "gender": "M",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1655,
@@ -18202,7 +18202,7 @@
     "age": 53,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1656,
@@ -18213,7 +18213,7 @@
     "age": 37,
     "gender": "M",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1657,
@@ -18224,7 +18224,7 @@
     "age": 49,
     "gender": "M",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1658,
@@ -18257,7 +18257,7 @@
     "age": 28,
     "gender": "F",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1661,
@@ -18267,8 +18267,8 @@
     "status": "Casa",
     "age": 50,
     "gender": "M",
-    "type": "En estudio",
-    "country_from": "colombia"
+    "type": "Relacionado",
+    "country_from": "Colombia"
   },
   {
     "id": 1662,
@@ -18301,7 +18301,7 @@
     "age": 31,
     "gender": "F",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1665,
@@ -18323,7 +18323,7 @@
     "age": 29,
     "gender": "F",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1667,
@@ -18334,7 +18334,7 @@
     "age": 79,
     "gender": "F",
     "type": "En estudio",
-    "country_from": "colombia"
+    "country_from": "Colombia"
   },
   {
     "id": 1668,
@@ -18421,7 +18421,7 @@
     "status": "Hospital",
     "age": 42,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -18730,7 +18730,7 @@
     "age": 51,
     "gender": "F",
     "type": "Importado",
-    "country_from": "República Dominicana"
+    "country_from": "Republica Dominicana"
   },
   {
     "id": 1704,
@@ -18763,7 +18763,7 @@
     "age": 48,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 1707,
@@ -18779,7 +18779,7 @@
   {
     "id": 1708,
     "date": "07/04/2020",
-    "city": "Itagüi",
+    "city": "Itagüí",
     "region": "Antioquia",
     "status": "Casa",
     "age": 62,
@@ -18873,7 +18873,7 @@
     "age": 34,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1717,
@@ -18884,7 +18884,7 @@
     "age": 31,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1718,
@@ -18946,7 +18946,7 @@
     "date": "07/04/2020",
     "city": "Turbaco",
     "region": "Bolívar",
-    "status": "Casa",
+    "status": "Hospital",
     "age": 43,
     "gender": "M",
     "type": "En estudio",
@@ -18977,7 +18977,7 @@
   {
     "id": 1726,
     "date": "07/04/2020",
-    "city": "Montería",
+    "city": "Monteria",
     "region": "Córdoba",
     "status": "Hospital",
     "age": 28,
@@ -18988,7 +18988,7 @@
   {
     "id": 1727,
     "date": "07/04/2020",
-    "city": "Montería",
+    "city": "Monteria",
     "region": "Córdoba",
     "status": "Hospital",
     "age": 6,
@@ -18999,7 +18999,7 @@
   {
     "id": 1728,
     "date": "07/04/2020",
-    "city": "Ciénaga de Oro",
+    "city": "Cienaga De Oro",
     "region": "Córdoba",
     "status": "Fallecido",
     "age": 74,
@@ -19010,7 +19010,7 @@
   {
     "id": 1729,
     "date": "07/04/2020",
-    "city": "Montería",
+    "city": "Monteria",
     "region": "Córdoba",
     "status": "Hospital",
     "age": 47,
@@ -19126,7 +19126,7 @@
     "age": 27,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 1740,
@@ -19142,7 +19142,7 @@
   {
     "id": 1741,
     "date": "07/04/2020",
-    "city": "Calarcá",
+    "city": "Calarca",
     "region": "Quindío",
     "status": "Casa",
     "age": 63,
@@ -19153,7 +19153,7 @@
   {
     "id": 1742,
     "date": "07/04/2020",
-    "city": "Calarcá",
+    "city": "Calarca",
     "region": "Quindío",
     "status": "Casa",
     "age": 72,
@@ -19164,7 +19164,7 @@
   {
     "id": 1743,
     "date": "07/04/2020",
-    "city": "Calarcá",
+    "city": "Calarca",
     "region": "Quindío",
     "status": "Casa",
     "age": 18,
@@ -19175,7 +19175,7 @@
   {
     "id": 1744,
     "date": "07/04/2020",
-    "city": "Calarcá",
+    "city": "Calarca",
     "region": "Quindío",
     "status": "Casa",
     "age": 33,
@@ -19208,7 +19208,7 @@
   {
     "id": 1747,
     "date": "07/04/2020",
-    "city": "Santa Rosa de Cabal",
+    "city": "Santa Rosa De Cabal",
     "region": "Risaralda",
     "status": "Casa",
     "age": 45,
@@ -19225,7 +19225,7 @@
     "age": 33,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1749,
@@ -19313,7 +19313,7 @@
     "age": 53,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 1757,
@@ -19331,7 +19331,7 @@
     "date": "07/04/2020",
     "city": "Cali",
     "region": "Valle del Cauca",
-    "status": "Hospital",
+    "status": "Fallecido",
     "age": 59,
     "gender": "F",
     "type": "En estudio",
@@ -19401,7 +19401,7 @@
     "age": 58,
     "gender": "F",
     "type": "En estudio",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1765,
@@ -19533,7 +19533,7 @@
     "age": 25,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 1777,
@@ -19544,7 +19544,7 @@
     "age": 29,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Panamá"
+    "country_from": "Panama"
   },
   {
     "id": 1778,
@@ -19881,7 +19881,7 @@
     "date": "08/04/2020",
     "city": "Santa Marta",
     "region": "Santa Marta D.T. y C.",
-    "status": "Casa",
+    "status": "Hospital",
     "age": 36,
     "gender": "F",
     "type": "En estudio",
@@ -19892,7 +19892,7 @@
     "date": "08/04/2020",
     "city": "Santa Marta",
     "region": "Santa Marta D.T. y C.",
-    "status": "Hospital",
+    "status": "Hospital UCI",
     "age": 47,
     "gender": "M",
     "type": "En estudio",
@@ -19903,7 +19903,7 @@
     "date": "08/04/2020",
     "city": "Santa Marta",
     "region": "Santa Marta D.T. y C.",
-    "status": "Hospital",
+    "status": "Fallecido",
     "age": 96,
     "gender": "F",
     "type": "En estudio",
@@ -19914,7 +19914,7 @@
     "date": "08/04/2020",
     "city": "Santa Marta",
     "region": "Santa Marta D.T. y C.",
-    "status": "Casa",
+    "status": "Hospital",
     "age": 55,
     "gender": "F",
     "type": "En estudio",
@@ -19969,7 +19969,7 @@
     "date": "08/04/2020",
     "city": "Santa Marta",
     "region": "Santa Marta D.T. y C.",
-    "status": "Hospital",
+    "status": "Hospital UCI",
     "age": 30,
     "gender": "M",
     "type": "En estudio",
@@ -20072,7 +20072,7 @@
     "age": 40,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1826,
@@ -20083,7 +20083,7 @@
     "age": 35,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1827,
@@ -20123,7 +20123,7 @@
     "date": "08/04/2020",
     "city": "Cali",
     "region": "Valle del Cauca",
-    "status": "casa",
+    "status": "Hospital UCI",
     "age": 65,
     "gender": "M",
     "type": "En estudio",
@@ -20154,7 +20154,7 @@
   {
     "id": 1833,
     "date": "08/04/2020",
-    "city": "Jamundí",
+    "city": "Jamundi",
     "region": "Valle del Cauca",
     "status": "Casa",
     "age": 36,
@@ -20237,7 +20237,7 @@
     "age": 38,
     "gender": "F",
     "type": "Importado",
-    "country_from": "BRASIL"
+    "country_from": "Brasil"
   },
   {
     "id": 1841,
@@ -20303,7 +20303,7 @@
     "age": 45,
     "gender": "M",
     "type": "Importado",
-    "country_from": "BRASIL"
+    "country_from": "Brasil"
   },
   {
     "id": 1847,
@@ -20387,7 +20387,7 @@
     "date": "08/04/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Casa",
+    "status": "Hospital",
     "age": 28,
     "gender": "F",
     "type": "Relacionado",
@@ -20401,7 +20401,7 @@
     "status": "Casa",
     "age": 30,
     "gender": "F",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -20435,7 +20435,7 @@
     "age": 45,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1859,
@@ -20677,7 +20677,7 @@
     "age": 70,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1881,
@@ -20699,7 +20699,7 @@
     "age": 30,
     "gender": "F",
     "type": "Importado",
-    "country_from": "BRASIL"
+    "country_from": "Brasil"
   },
   {
     "id": 1883,
@@ -20732,7 +20732,7 @@
     "age": 61,
     "gender": "M",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 1886,
@@ -20875,7 +20875,7 @@
     "age": 62,
     "gender": "M",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 1899,
@@ -21091,7 +21091,7 @@
     "date": "08/04/2020",
     "city": "Bogotá",
     "region": "Bogotá D.C.",
-    "status": "Casa",
+    "status": "Fallecido",
     "age": 37,
     "gender": "F",
     "type": "En estudio",
@@ -21117,7 +21117,7 @@
     "age": 26,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1921,
@@ -21161,7 +21161,7 @@
     "age": 5,
     "gender": "M",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 1925,
@@ -21172,7 +21172,7 @@
     "age": 14,
     "gender": "M",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 1926,
@@ -21359,7 +21359,7 @@
     "age": 45,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Perú"
+    "country_from": "Peru"
   },
   {
     "id": 1943,
@@ -21392,7 +21392,7 @@
     "age": 54,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1946,
@@ -21502,7 +21502,7 @@
     "age": 67,
     "gender": "M",
     "type": "Importado",
-    "country_from": "PUERTO RICO"
+    "country_from": "Puerto Rico"
   },
   {
     "id": 1956,
@@ -21535,7 +21535,7 @@
     "age": 58,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1959,
@@ -21612,7 +21612,7 @@
     "age": 36,
     "gender": "F",
     "type": "Importado",
-    "country_from": "EGIPTO"
+    "country_from": "Egipto"
   },
   {
     "id": 1966,
@@ -21656,7 +21656,7 @@
     "age": 47,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1970,
@@ -21766,7 +21766,7 @@
     "age": 55,
     "gender": "M",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 1980,
@@ -21832,7 +21832,7 @@
     "age": 42,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1986,
@@ -21843,7 +21843,7 @@
     "age": 30,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1987,
@@ -21876,7 +21876,7 @@
     "age": 29,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1990,
@@ -21909,7 +21909,7 @@
     "age": 55,
     "gender": "F",
     "type": "Importado",
-    "country_from": "México"
+    "country_from": "Mexico"
   },
   {
     "id": 1993,
@@ -21931,7 +21931,7 @@
     "age": 41,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Perú"
+    "country_from": "Peru"
   },
   {
     "id": 1995,
@@ -21950,7 +21950,7 @@
     "city": "Medellín",
     "region": "Antioquia",
     "status": "Casa",
-    "age": 0,
+    "age": 54,
     "gender": "M",
     "type": "En estudio",
     "country_from": "Colombia"
@@ -21975,7 +21975,7 @@
     "age": 60,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 1999,
@@ -22041,7 +22041,7 @@
     "age": 32,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 2005,
@@ -22051,7 +22051,7 @@
     "status": "Casa",
     "age": 39,
     "gender": "F",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -22062,7 +22062,7 @@
     "status": "Casa",
     "age": 69,
     "gender": "F",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -22095,7 +22095,7 @@
     "status": "Casa",
     "age": 15,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -22106,7 +22106,7 @@
     "status": "Casa",
     "age": 42,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -22114,7 +22114,7 @@
     "date": "08/04/2020",
     "city": "Tunja",
     "region": "Boyacá",
-    "status": "Hospital",
+    "status": "Casa",
     "age": 25,
     "gender": "F",
     "type": "En estudio",
@@ -22140,7 +22140,7 @@
     "age": 55,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 2014,
@@ -22150,7 +22150,7 @@
     "status": "Casa",
     "age": 56,
     "gender": "M",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -22162,17 +22162,17 @@
     "age": 37,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 2016,
     "date": "08/04/2020",
-    "city": "Villapinzón",
+    "city": "Chocontá",
     "region": "Cundinamarca",
     "status": "Casa",
     "age": 28,
     "gender": "F",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -22183,7 +22183,7 @@
     "status": "Casa",
     "age": 31,
     "gender": "F",
-    "type": "En estudio",
+    "type": "Relacionado",
     "country_from": "Colombia"
   },
   {
@@ -22205,8 +22205,8 @@
     "status": "Casa",
     "age": 74,
     "gender": "M",
-    "type": "En estudio",
-    "country_from": "Colombia"
+    "type": "Importado",
+    "country_from": "Ecuador"
   },
   {
     "id": 2020,
@@ -22249,8 +22249,8 @@
     "status": "Hospital",
     "age": 32,
     "gender": "M",
-    "type": "En estudio",
-    "country_from": "Colombia"
+    "type": "Importado",
+    "country_from": "Panama"
   },
   {
     "id": 2024,
@@ -22272,7 +22272,7 @@
     "age": 30,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Estados Unidos"
+    "country_from": "Estados Unidos De América"
   },
   {
     "id": 2026,
@@ -22365,7 +22365,7 @@
   {
     "id": 2034,
     "date": "08/04/2020",
-    "city": "Jamundí",
+    "city": "Jamundi",
     "region": "Valle del Cauca",
     "status": "Casa",
     "age": 41,
@@ -22547,7 +22547,7 @@
     "age": 38,
     "gender": "F",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 2051,
@@ -22558,12 +22558,12 @@
     "age": 64,
     "gender": "M",
     "type": "Importado",
-    "country_from": "Turquía"
+    "country_from": "Turquia"
   },
   {
     "id": 2052,
     "date": "08/04/2020",
-    "city": "Andalucía",
+    "city": "Andalucia",
     "region": "Valle del Cauca",
     "status": "Hospital",
     "age": 78,
@@ -22592,5 +22592,1864 @@
     "gender": "F",
     "type": "Importado",
     "country_from": "Ecuador"
+  },
+  {
+    "id": 2055,
+    "date": "09/04/2020",
+    "city": "Envigado",
+    "region": "Antioquia",
+    "status": "Casa",
+    "age": 36,
+    "gender": "F",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2056,
+    "date": "09/04/2020",
+    "city": "Togui",
+    "region": "Boyacá",
+    "status": "Casa",
+    "age": 21,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2057,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Casa",
+    "age": 64,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2058,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Casa",
+    "age": 28,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2059,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Casa",
+    "age": 47,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2060,
+    "date": "09/04/2020",
+    "city": "Medellín",
+    "region": "Antioquia",
+    "status": "Casa",
+    "age": 29,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2061,
+    "date": "09/04/2020",
+    "city": "Medellín",
+    "region": "Antioquia",
+    "status": "Casa",
+    "age": 58,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2062,
+    "date": "09/04/2020",
+    "city": "Pasto",
+    "region": "Nariño",
+    "status": "Fallecido",
+    "age": 73,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2063,
+    "date": "09/04/2020",
+    "city": "Pasto",
+    "region": "Nariño",
+    "status": "Hospital",
+    "age": 48,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2064,
+    "date": "09/04/2020",
+    "city": "Ipiales",
+    "region": "Nariño",
+    "status": "Hospital",
+    "age": 62,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2065,
+    "date": "09/04/2020",
+    "city": "Pasto",
+    "region": "Nariño",
+    "status": "Casa",
+    "age": 57,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2066,
+    "date": "09/04/2020",
+    "city": "Barranquilla",
+    "region": "Barranquilla D.E.",
+    "status": "Casa",
+    "age": 33,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2067,
+    "date": "09/04/2020",
+    "city": "Barranquilla",
+    "region": "Barranquilla D.E.",
+    "status": "Casa",
+    "age": 40,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2068,
+    "date": "09/04/2020",
+    "city": "Santa Marta",
+    "region": "Santa Marta D.T. y C.",
+    "status": "Hospital",
+    "age": 75,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2069,
+    "date": "09/04/2020",
+    "city": "Santa Marta",
+    "region": "Santa Marta D.T. y C.",
+    "status": "Casa",
+    "age": 70,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2070,
+    "date": "09/04/2020",
+    "city": "Santa Marta",
+    "region": "Santa Marta D.T. y C.",
+    "status": "Hospital",
+    "age": 50,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2071,
+    "date": "09/04/2020",
+    "city": "Santa Marta",
+    "region": "Santa Marta D.T. y C.",
+    "status": "Hospital",
+    "age": 47,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2072,
+    "date": "09/04/2020",
+    "city": "La Ceja",
+    "region": "Antioquia",
+    "status": "Hospital",
+    "age": 75,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2073,
+    "date": "09/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Hospital",
+    "age": 70,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2074,
+    "date": "09/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Hospital",
+    "age": 58,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2075,
+    "date": "09/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Casa",
+    "age": 72,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2076,
+    "date": "09/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Hospital",
+    "age": 57,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2077,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 54,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2078,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 28,
+    "gender": "M",
+    "type": "Importado",
+    "country_from": "Kenia"
+  },
+  {
+    "id": 2079,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 26,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2080,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Hospital",
+    "age": 61,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2081,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 58,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2082,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 32,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2083,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 28,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2084,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 23,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2085,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 34,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2086,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 24,
+    "gender": "F",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2087,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 46,
+    "gender": "F",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2088,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 37,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2089,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 8,
+    "gender": "F",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2090,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 43,
+    "gender": "F",
+    "type": "Importado",
+    "country_from": "Israel"
+  },
+  {
+    "id": 2091,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 71,
+    "gender": "F",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2092,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 20,
+    "gender": "M",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2093,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 17,
+    "gender": "M",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2094,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 72,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2095,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 40,
+    "gender": "M",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2096,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 36,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2097,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 18,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2098,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 30,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2099,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "hospital",
+    "age": 48,
+    "gender": "F",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2100,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 2,
+    "gender": "M",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2101,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 38,
+    "gender": "M",
+    "type": "Importado",
+    "country_from": "Egipto"
+  },
+  {
+    "id": 2102,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Hospital",
+    "age": 83,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2103,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Hospital",
+    "age": 41,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2104,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Hospital",
+    "age": 65,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2105,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 33,
+    "gender": "F",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2106,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 15,
+    "gender": "M",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2107,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 30,
+    "gender": "F",
+    "type": "Relacionado",
+    "country_from": "Turquia"
+  },
+  {
+    "id": 2108,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 79,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2109,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Hospital",
+    "age": 83,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2110,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 31,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2111,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 45,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2112,
+    "date": "09/04/2020",
+    "city": "Cúcuta",
+    "region": "Norte de Santander",
+    "status": "Casa",
+    "age": 39,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2113,
+    "date": "09/04/2020",
+    "city": "San Juan De Rio Seco",
+    "region": "Cundinamarca",
+    "status": "Casa",
+    "age": 24,
+    "gender": "F",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2114,
+    "date": "09/04/2020",
+    "city": "Funza",
+    "region": "Cundinamarca",
+    "status": "Casa",
+    "age": 31,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2115,
+    "date": "09/04/2020",
+    "city": "Funza",
+    "region": "Cundinamarca",
+    "status": "Casa",
+    "age": 28,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2116,
+    "date": "09/04/2020",
+    "city": "Sopó",
+    "region": "Cundinamarca",
+    "status": "Casa",
+    "age": 29,
+    "gender": "F",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2117,
+    "date": "09/04/2020",
+    "city": "Barranquilla",
+    "region": "Barranquilla D.E.",
+    "status": "Casa",
+    "age": 49,
+    "gender": "F",
+    "type": "Importado",
+    "country_from": "Estados Unidos"
+  },
+  {
+    "id": 2118,
+    "date": "09/04/2020",
+    "city": "Barranquilla",
+    "region": "Barranquilla D.E.",
+    "status": "Casa",
+    "age": 38,
+    "gender": "F",
+    "type": "Importado",
+    "country_from": "España"
+  },
+  {
+    "id": 2119,
+    "date": "09/04/2020",
+    "city": "Barranquilla",
+    "region": "Barranquilla D.E.",
+    "status": "Casa",
+    "age": 47,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2120,
+    "date": "09/04/2020",
+    "city": "Barranquilla",
+    "region": "Barranquilla D.E.",
+    "status": "Hospital",
+    "age": 57,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2121,
+    "date": "09/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Fallecido",
+    "age": 58,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2122,
+    "date": "09/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Casa",
+    "age": 29,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2123,
+    "date": "09/04/2020",
+    "city": "Turbaco",
+    "region": "Bolívar",
+    "status": "Casa",
+    "age": 34,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2124,
+    "date": "09/04/2020",
+    "city": "Turbaco",
+    "region": "Bolívar",
+    "status": "Casa",
+    "age": 36,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2125,
+    "date": "09/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Casa",
+    "age": 74,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2126,
+    "date": "09/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Casa",
+    "age": 75,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2127,
+    "date": "09/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Casa",
+    "age": 31,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2128,
+    "date": "09/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Fallecido",
+    "age": 66,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2129,
+    "date": "09/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Casa",
+    "age": 23,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2130,
+    "date": "09/04/2020",
+    "city": "Turbaco",
+    "region": "Bolívar",
+    "status": "Fallecido",
+    "age": 71,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2131,
+    "date": "09/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Casa",
+    "age": 31,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2132,
+    "date": "09/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Casa",
+    "age": 48,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2133,
+    "date": "09/04/2020",
+    "city": "Cartagena",
+    "region": "Cartagena D.T. y C",
+    "status": "Hospital",
+    "age": 78,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2134,
+    "date": "09/04/2020",
+    "city": "Togui",
+    "region": "Boyacá",
+    "status": "Casa",
+    "age": 52,
+    "gender": "M",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2135,
+    "date": "09/04/2020",
+    "city": "Togui",
+    "region": "Boyacá",
+    "status": "Casa",
+    "age": 19,
+    "gender": "M",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2136,
+    "date": "09/04/2020",
+    "city": "Garagoa",
+    "region": "Boyacá",
+    "status": "Casa",
+    "age": 47,
+    "gender": "F",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2137,
+    "date": "09/04/2020",
+    "city": "Tunja",
+    "region": "Boyacá",
+    "status": "Hospital",
+    "age": 64,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2138,
+    "date": "09/04/2020",
+    "city": "La Dorada",
+    "region": "Caldas",
+    "status": "Casa",
+    "age": 2,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2139,
+    "date": "09/04/2020",
+    "city": "La Dorada",
+    "region": "Caldas",
+    "status": "Casa",
+    "age": 70,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2140,
+    "date": "09/04/2020",
+    "city": "La Dorada",
+    "region": "Caldas",
+    "status": "Casa",
+    "age": 1,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2141,
+    "date": "09/04/2020",
+    "city": "La Dorada",
+    "region": "Caldas",
+    "status": "Casa",
+    "age": 56,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2142,
+    "date": "09/04/2020",
+    "city": "La Dorada",
+    "region": "Caldas",
+    "status": "Casa",
+    "age": 56,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2143,
+    "date": "09/04/2020",
+    "city": "Valledupar",
+    "region": "Cesar",
+    "status": "Hospital",
+    "age": 48,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2144,
+    "date": "09/04/2020",
+    "city": "Villapinzon",
+    "region": "Cundinamarca",
+    "status": "Casa",
+    "age": 88,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2145,
+    "date": "09/04/2020",
+    "city": "Chía",
+    "region": "Cundinamarca",
+    "status": "Hospital",
+    "age": 53,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2146,
+    "date": "09/04/2020",
+    "city": "Facatativá",
+    "region": "Cundinamarca",
+    "status": "Casa",
+    "age": 32,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2147,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 26,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2148,
+    "date": "09/04/2020",
+    "city": "Villavicencio",
+    "region": "Meta",
+    "status": "Hospital",
+    "age": 71,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2149,
+    "date": "09/04/2020",
+    "city": "Tumaco",
+    "region": "Nariño",
+    "status": "Casa",
+    "age": 6,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2150,
+    "date": "09/04/2020",
+    "city": "Ipiales",
+    "region": "Nariño",
+    "status": "Casa",
+    "age": 61,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2151,
+    "date": "09/04/2020",
+    "city": "Ipiales",
+    "region": "Nariño",
+    "status": "Casa",
+    "age": 51,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2152,
+    "date": "09/04/2020",
+    "city": "Contadero",
+    "region": "Nariño",
+    "status": "Casa",
+    "age": 22,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2153,
+    "date": "09/04/2020",
+    "city": "Pasto",
+    "region": "Nariño",
+    "status": "Casa",
+    "age": 59,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2154,
+    "date": "09/04/2020",
+    "city": "Pasto",
+    "region": "Nariño",
+    "status": "Casa",
+    "age": 54,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2155,
+    "date": "09/04/2020",
+    "city": "Pasto",
+    "region": "Nariño",
+    "status": "Casa",
+    "age": 24,
+    "gender": "M",
+    "type": "Importado",
+    "country_from": "Mexico"
+  },
+  {
+    "id": 2156,
+    "date": "09/04/2020",
+    "city": "La Unión",
+    "region": "Nariño",
+    "status": "Hospital",
+    "age": 15,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2157,
+    "date": "09/04/2020",
+    "city": "Pasto",
+    "region": "Nariño",
+    "status": "Hospital",
+    "age": 1,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2158,
+    "date": "09/04/2020",
+    "city": "Pasto",
+    "region": "Nariño",
+    "status": "Hospital",
+    "age": 52,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2159,
+    "date": "09/04/2020",
+    "city": "Ipiales",
+    "region": "Nariño",
+    "status": "Casa",
+    "age": 47,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2160,
+    "date": "09/04/2020",
+    "city": "Ipiales",
+    "region": "Nariño",
+    "status": "Casa",
+    "age": 63,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2161,
+    "date": "09/04/2020",
+    "city": "Ipiales",
+    "region": "Nariño",
+    "status": "Casa",
+    "age": 56,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2162,
+    "date": "09/04/2020",
+    "city": "Cumbitara",
+    "region": "Nariño",
+    "status": "Casa",
+    "age": 13,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2163,
+    "date": "09/04/2020",
+    "city": "Cúcuta",
+    "region": "Norte de Santander",
+    "status": "Casa",
+    "age": 15,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2164,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Norte de Santander",
+    "status": "Casa",
+    "age": 33,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2165,
+    "date": "09/04/2020",
+    "city": "Cúcuta",
+    "region": "Norte de Santander",
+    "status": "Fallecido",
+    "age": 75,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2166,
+    "date": "09/04/2020",
+    "city": "Cúcuta",
+    "region": "Norte de Santander",
+    "status": "Casa",
+    "age": 27,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2167,
+    "date": "09/04/2020",
+    "city": "Cúcuta",
+    "region": "Norte de Santander",
+    "status": "Casa",
+    "age": 1,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2168,
+    "date": "09/04/2020",
+    "city": "Villa Del Rosario",
+    "region": "Norte de Santander",
+    "status": "Hospital",
+    "age": 67,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2169,
+    "date": "09/04/2020",
+    "city": "Cúcuta",
+    "region": "Norte de Santander",
+    "status": "Hospital",
+    "age": 50,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2170,
+    "date": "09/04/2020",
+    "city": "Cúcuta",
+    "region": "Norte de Santander",
+    "status": "Casa",
+    "age": 52,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2171,
+    "date": "09/04/2020",
+    "city": "Cúcuta",
+    "region": "Norte de Santander",
+    "status": "Hospital",
+    "age": 75,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2172,
+    "date": "09/04/2020",
+    "city": "Ocaña",
+    "region": "Norte de Santander",
+    "status": "Fallecido",
+    "age": 98,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2173,
+    "date": "09/04/2020",
+    "city": "Armenia",
+    "region": "Quindío",
+    "status": "Casa",
+    "age": 29,
+    "gender": "F",
+    "type": "Importado",
+    "country_from": "Mexico"
+  },
+  {
+    "id": 2174,
+    "date": "09/04/2020",
+    "city": "Dosquebradas",
+    "region": "Risaralda",
+    "status": "Casa",
+    "age": 56,
+    "gender": "F",
+    "type": "Importado",
+    "country_from": "España"
+  },
+  {
+    "id": 2175,
+    "date": "09/04/2020",
+    "city": "Pereira",
+    "region": "Risaralda",
+    "status": "Casa",
+    "age": 59,
+    "gender": "F",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2176,
+    "date": "09/04/2020",
+    "city": "Dosquebradas",
+    "region": "Risaralda",
+    "status": "Hospital",
+    "age": 53,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2177,
+    "date": "09/04/2020",
+    "city": "San Andrés",
+    "region": "San Andrés",
+    "status": "Casa",
+    "age": 49,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2178,
+    "date": "09/04/2020",
+    "city": "Fusagasugá",
+    "region": "Cundinamarca",
+    "status": "Casa",
+    "age": 42,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2179,
+    "date": "09/04/2020",
+    "city": "Piedecuesta",
+    "region": "Santander",
+    "status": "Casa",
+    "age": 39,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2180,
+    "date": "09/04/2020",
+    "city": "Cimitarra",
+    "region": "Santander",
+    "status": "Casa",
+    "age": 26,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2181,
+    "date": "09/04/2020",
+    "city": "Concepción",
+    "region": "Santander",
+    "status": "Casa",
+    "age": 61,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2182,
+    "date": "09/04/2020",
+    "city": "Barrancabermeja",
+    "region": "Santander",
+    "status": "Casa",
+    "age": 50,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2183,
+    "date": "09/04/2020",
+    "city": "Curití",
+    "region": "Santander",
+    "status": "Casa",
+    "age": 20,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2184,
+    "date": "09/04/2020",
+    "city": "Puerto Santander",
+    "region": "Norte de Santander",
+    "status": "Casa",
+    "age": 29,
+    "gender": "M",
+    "type": "Importado",
+    "country_from": "Estados Unidos De América"
+  },
+  {
+    "id": 2185,
+    "date": "09/04/2020",
+    "city": "Bucaramanga",
+    "region": "Santander",
+    "status": "Casa",
+    "age": 26,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2186,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Hospital",
+    "age": 60,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2187,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Fallecido",
+    "age": 80,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2188,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Casa",
+    "age": 28,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2189,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Hospital",
+    "age": 61,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2190,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Casa",
+    "age": 56,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2191,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Hospital",
+    "age": 28,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2192,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Casa",
+    "age": 56,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2193,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Casa",
+    "age": 75,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2194,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Hospital",
+    "age": 45,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2195,
+    "date": "09/04/2020",
+    "city": "Tuluá",
+    "region": "Valle del Cauca",
+    "status": "Casa",
+    "age": 51,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2196,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Casa",
+    "age": 31,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2197,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Hospital",
+    "age": 61,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2198,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Hospital",
+    "age": 51,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2199,
+    "date": "09/04/2020",
+    "city": "Jamundi",
+    "region": "Valle del Cauca",
+    "status": "Casa",
+    "age": 50,
+    "gender": "F",
+    "type": "Importado",
+    "country_from": "Reino Unido De Gran Bretaña E Irlanda Del"
+  },
+  {
+    "id": 2200,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Hospital",
+    "age": 78,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2201,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Hospital",
+    "age": 59,
+    "gender": "M",
+    "type": "Importado",
+    "country_from": "España"
+  },
+  {
+    "id": 2202,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 56,
+    "gender": "M",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2203,
+    "date": "09/04/2020",
+    "city": "Bogotá",
+    "region": "Bogotá D.C.",
+    "status": "Casa",
+    "age": 47,
+    "gender": "M",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2204,
+    "date": "09/04/2020",
+    "city": "Candelaria",
+    "region": "Valle del Cauca",
+    "status": "Casa",
+    "age": 33,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2205,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Casa",
+    "age": 22,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2206,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Hospital",
+    "age": 65,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2207,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Casa",
+    "age": 62,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2208,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Casa",
+    "age": 46,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2209,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Hospital",
+    "age": 66,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2210,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Hospital",
+    "age": 37,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2211,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Casa",
+    "age": 65,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2212,
+    "date": "09/04/2020",
+    "city": "Miranda",
+    "region": "Cauca",
+    "status": "Hospital",
+    "age": 50,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2213,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Casa",
+    "age": 75,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2214,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Hospital",
+    "age": 81,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2215,
+    "date": "09/04/2020",
+    "city": "Neiva",
+    "region": "Huila",
+    "status": "Casa",
+    "age": 77,
+    "gender": "M",
+    "type": "Relacionado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2216,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Hospital",
+    "age": 45,
+    "gender": "M",
+    "type": "Importado",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2217,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Hospital",
+    "age": 66,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2218,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Hospital",
+    "age": 77,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2219,
+    "date": "09/04/2020",
+    "city": "Cali",
+    "region": "Valle del Cauca",
+    "status": "Hospital",
+    "age": 62,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2220,
+    "date": "09/04/2020",
+    "city": "Manizales",
+    "region": "Valle del Cauca",
+    "status": "Casa",
+    "age": 32,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2221,
+    "date": "09/04/2020",
+    "city": "Yopal",
+    "region": "Casanare",
+    "status": "Casa",
+    "age": 43,
+    "gender": "F",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2222,
+    "date": "09/04/2020",
+    "city": "Espinal",
+    "region": "Tolima",
+    "status": "Casa",
+    "age": 44,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
+  },
+  {
+    "id": 2223,
+    "date": "09/04/2020",
+    "city": "Ipiales",
+    "region": "Nariño",
+    "status": "Hospital",
+    "age": 42,
+    "gender": "M",
+    "type": "En estudio",
+    "country_from": "Colombia"
   }
 ]
